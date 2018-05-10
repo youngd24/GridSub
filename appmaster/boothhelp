@@ -1,0 +1,53 @@
+#!/bin/bash
+
+
+
+if [ -z "$1" ]; then
+
+    clear
+
+    cat << EOF
+    
+    For general help please contact helpdesk@chicagobooth.edu
+
+    For help running jobs in batch mode, type boothhelp batch and press return
+
+EOF
+    exit
+fi
+
+
+function _batch_help {
+
+    clear
+
+    cat << EOF
+
+    Running research applications in batch mode on the Booth research grid
+
+                           NOTE NOTE NOTE
+     The grid interfaces to the applications are still experimental and are
+     subject to change.
+
+    STATA: batch-stata|batch-stata-mp|batch-stata-se <dofile>
+
+    SAS: batch-sas <sasfile>
+
+    MATLAB: batch-matlab <mfile> <outfile>
+
+    MATHEMATICA: batch-math <sourcefile> <outfile>
+
+    SPLUS: batch-splus <infile> <outfile>
+
+EOF
+}
+
+
+
+
+
+if [ "$1" == "batch" ]; then
+    _batch_help
+    exit
+fi
+

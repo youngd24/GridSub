@@ -1,0 +1,8 @@
+#!/bin/bash
+
+HOSTNAME=`hostname`
+
+if [ $HOSTNAME != "gsbgm1" ]; then
+    echo "Apps can only run on the grid master"
+    exit
+fi

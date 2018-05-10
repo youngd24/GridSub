@@ -1,0 +1,64 @@
+#!/usr/bin/perl
+###############################################################################
+#
+# GridWSd
+#
+# GRID Web Service Administration Daemon
+#
+# Copyright (C) 2004-2010 The University of Chicago
+#
+# Darren Young <darren.young@chicago*.edu>
+#
+###############################################################################
+#
+# NOTES:
+# ------
+# * This script is used *only* as the interface, don't put any logic in here.
+# * This is a standalone daemon, start it by running it.
+# * It would be nifty to implement a hup() signal to catch and exec ourselves
+#   for a restart operation.
+#
+###############################################################################
+
+
+###############################################################################
+#                                 B E G I N
+###############################################################################
+BEGIN {
+	
+	# Pragmas
+    use strict;
+    use warnings;
+
+    # "Standard" modules we use
+    use FindBin;
+    use POSIX qw(strftime);
+    
+    # Our library path(s)
+    use lib "$FindBin::Bin/lib";
+
+	# Our modules we use
+	use config;
+	use homedirs;
+	use logging;
+	use GRIDLIB;
+
+	# Enable this for *massive* tracing 
+	# You have to disable strict for it to work though
+	# use SOAP::Lite +trace => all;
+	use SOAP::Transport::HTTP;
+
+	# Capture (dup) STDERR output to our log file
+	# Don't touch STDOUT as that's connected to the client by SOAP::Lite
+	open(STDERR, ">>/opt/gsb/grid/webservice/log/UAMGridWebService.log");
+
+}
+
+###############################################################################
+#                                S T A R T   U P
+###############################################################################
+my $daemon = SOAP::Transport::HTTP::Daemon
+    -> new (LocalPort => 8080)
+    -> dispatch_to('GRIDLIB');
+    
+$daemon->handle;

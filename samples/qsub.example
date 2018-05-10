@@ -1,0 +1,12 @@
+print TMPFILE '#!/bin/bash' . "\n";
+print TMPFILE '#$ -S /bin/bash' . "\n";
+print TMPFILE '#$' . " -o $ENV{HOME}/batch.out" . "\n";
+print TMPFILE '#$' . " -e $ENV{HOME}/batch.err" . "\n";
+
+print TMPFILE '/opt/gsb/apps/bin/' . $batchapp . " $infile $outfile\n";
+
+close(TMPFILE);
+
+$syscmd = "qsub -cwd -q lowmem.q $tmpfile";
+logmsg("Submit: $syscmd");
+

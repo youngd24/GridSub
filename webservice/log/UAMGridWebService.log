@@ -1,0 +1,2406 @@
+[2011-05-10 03:00:31] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-05-10 03:00:31] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-05-10 03:00:31] GRIDLIB(): DeleteAccount: uname  => skim3
+[2011-05-10 03:00:31] GRIDLIB(): DeleteAccount: actype => p
+[2011-05-10 03:00:31] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-05-10 03:00:31] homedirs(): _remove_homedir: uname   => skim3
+[2011-05-10 03:00:31] homedirs(): _remove_homedir: actype  => p
+[2011-05-10 03:00:31] homedirs(): _remove_homedir: homedir => /phdvol/skim3
+[2011-05-10 03:00:31] GRIDLIB(): DeleteAccount: Removed homedir for skim3
+[2011-05-10 03:00:33] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-05-10 03:00:33] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-05-10 03:00:33] GRIDLIB(): DeleteAccount: uname  => mhu0
+[2011-05-10 03:00:33] GRIDLIB(): DeleteAccount: actype => p
+[2011-05-10 03:00:33] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-05-10 03:00:33] homedirs(): _remove_homedir: uname   => mhu0
+[2011-05-10 03:00:33] homedirs(): _remove_homedir: actype  => p
+[2011-05-10 03:00:33] homedirs(): _remove_homedir: homedir => /phdvol/mhu0
+[2011-05-10 03:00:33] GRIDLIB(): DeleteAccount: Removed homedir for mhu0
+[2011-05-10 03:00:33] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-05-10 03:00:33] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-05-10 03:00:33] GRIDLIB(): DeleteAccount: uname  => sblair
+[2011-05-10 03:00:33] GRIDLIB(): DeleteAccount: actype => p
+[2011-05-10 03:00:33] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-05-10 03:00:33] homedirs(): _remove_homedir: uname   => sblair
+[2011-05-10 03:00:33] homedirs(): _remove_homedir: actype  => p
+[2011-05-10 03:00:33] homedirs(): _remove_homedir: homedir => /phdvol/sblair
+[2011-05-10 03:00:33] GRIDLIB(): DeleteAccount: Removed homedir for sblair
+[2011-05-13 13:17:25] GRIDLIB(): InitAccount: entering InitAccount()
+[2011-05-13 13:17:25] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2011-05-13 13:17:25] GRIDLIB(): InitAccount: uname  => aburasch
+[2011-05-13 13:17:25] GRIDLIB(): InitAccount: uid    => 61764
+[2011-05-13 13:17:25] GRIDLIB(): InitAccount: actype => f
+[2011-05-13 13:17:25] GRIDLIB(): InitAccount: calling _make_homedir()
+[2011-05-13 13:17:25] homedirs(): _make_homedir: entering _make_homedirs()
+[2011-05-13 13:17:25] homedirs(): _make_homedir: homedir  => /facvol/aburasch
+[2011-05-13 13:17:25] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2011-05-13 13:17:25] homedirs(): _make_homedir:      gid => 45
+[2011-05-13 13:17:25] homedirs(): _make_homedir: Attempting to create directory: /facvol/aburasch
+[2011-05-13 13:17:25] homedirs(): _make_homedir: FAILED to create directory /facvol/aburasch: /facvol/aburasch already exists
+[2011-05-16 08:24:59] GRIDLIB(): InitAccount: entering InitAccount()
+[2011-05-16 08:24:59] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2011-05-16 08:24:59] GRIDLIB(): InitAccount: uname  => aburasch
+[2011-05-16 08:24:59] GRIDLIB(): InitAccount: uid    => 61765
+[2011-05-16 08:24:59] GRIDLIB(): InitAccount: actype => f
+[2011-05-16 08:24:59] GRIDLIB(): InitAccount: calling _make_homedir()
+[2011-05-16 08:24:59] homedirs(): _make_homedir: entering _make_homedirs()
+[2011-05-16 08:24:59] homedirs(): _make_homedir: homedir  => /facvol/aburasch
+[2011-05-16 08:24:59] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2011-05-16 08:24:59] homedirs(): _make_homedir:      gid => 45
+[2011-05-16 08:24:59] homedirs(): _make_homedir: Attempting to create directory: /facvol/aburasch
+[2011-05-16 08:24:59] homedirs(): _make_homedir: FAILED to create directory /facvol/aburasch: /facvol/aburasch already exists
+[2011-05-17 16:17:40] GRIDLIB(): InitAccount: entering InitAccount()
+[2011-05-17 16:17:40] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2011-05-17 16:17:40] GRIDLIB(): InitAccount: uname  => aburasch
+[2011-05-17 16:17:40] GRIDLIB(): InitAccount: uid    => 61766
+[2011-05-17 16:17:40] GRIDLIB(): InitAccount: actype => f
+[2011-05-17 16:17:40] GRIDLIB(): InitAccount: calling _make_homedir()
+[2011-05-17 16:17:40] homedirs(): _make_homedir: entering _make_homedirs()
+[2011-05-17 16:17:40] homedirs(): _make_homedir: homedir  => /facvol/aburasch
+[2011-05-17 16:17:40] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2011-05-17 16:17:40] homedirs(): _make_homedir:      gid => 45
+[2011-05-17 16:17:40] homedirs(): _make_homedir: Attempting to create directory: /facvol/aburasch
+[2011-05-17 16:17:40] homedirs(): _make_homedir: Created home directory: /facvol/aburasch
+[2011-05-17 16:17:40] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/aburasch
+[2011-05-17 16:17:40] homedirs(): _make_homedir: /facvol/aburasch ownership changed to 61766:45
+[2011-05-17 16:17:40] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/aburasch
+[2011-05-17 16:17:40] homedirs(): _make_homedir: Set permissions on /facvol/aburasch/.cshrc
+[2011-05-17 16:17:40] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/aburasch
+[2011-05-17 16:17:40] homedirs(): _make_homedir: Set permissions on /facvol/aburasch/.login
+[2011-05-17 16:17:40] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/aburasch
+[2011-05-17 16:17:40] homedirs(): _make_homedir: Set permissions on /facvol/aburasch/.profile
+[2011-05-17 16:17:40] homedirs(): _make_homedir: returning with value: 1
+[2011-05-17 16:17:40] GRIDLIB(): InitAccount: Created homedir for aburasch
+[2011-06-08 12:39:42] GRIDLIB(): InitAccount: entering InitAccount()
+[2011-06-08 12:39:42] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2011-06-08 12:39:42] GRIDLIB(): InitAccount: uname  => cyenkey
+[2011-06-08 12:39:42] GRIDLIB(): InitAccount: uid    => 61767
+[2011-06-08 12:39:42] GRIDLIB(): InitAccount: actype => f
+[2011-06-08 12:39:42] GRIDLIB(): InitAccount: calling _make_homedir()
+[2011-06-08 12:39:42] homedirs(): _make_homedir: entering _make_homedirs()
+[2011-06-08 12:39:42] homedirs(): _make_homedir: homedir  => /facvol/cyenkey
+[2011-06-08 12:39:42] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2011-06-08 12:39:42] homedirs(): _make_homedir:      gid => 45
+[2011-06-08 12:39:42] homedirs(): _make_homedir: Attempting to create directory: /facvol/cyenkey
+[2011-06-08 12:39:42] homedirs(): _make_homedir: Created home directory: /facvol/cyenkey
+[2011-06-08 12:39:42] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/cyenkey
+[2011-06-08 12:39:42] homedirs(): _make_homedir: /facvol/cyenkey ownership changed to 61767:45
+[2011-06-08 12:39:42] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/cyenkey
+[2011-06-08 12:39:42] homedirs(): _make_homedir: Set permissions on /facvol/cyenkey/.cshrc
+[2011-06-08 12:39:42] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/cyenkey
+[2011-06-08 12:39:42] homedirs(): _make_homedir: Set permissions on /facvol/cyenkey/.login
+[2011-06-08 12:39:43] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/cyenkey
+[2011-06-08 12:39:43] homedirs(): _make_homedir: Set permissions on /facvol/cyenkey/.profile
+[2011-06-08 12:39:43] homedirs(): _make_homedir: returning with value: 1
+[2011-06-08 12:39:43] GRIDLIB(): InitAccount: Created homedir for cyenkey
+[2011-06-15 14:03:40] GRIDLIB(): InitAccount: entering InitAccount()
+[2011-06-15 14:03:40] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2011-06-15 14:03:40] GRIDLIB(): InitAccount: uname  => dstoffer
+[2011-06-15 14:03:40] GRIDLIB(): InitAccount: uid    => 61803
+[2011-06-15 14:03:40] GRIDLIB(): InitAccount: actype => f
+[2011-06-15 14:03:40] GRIDLIB(): InitAccount: calling _make_homedir()
+[2011-06-15 14:03:40] homedirs(): _make_homedir: entering _make_homedirs()
+[2011-06-15 14:03:40] homedirs(): _make_homedir: homedir  => /facvol/dstoffer
+[2011-06-15 14:03:40] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2011-06-15 14:03:40] homedirs(): _make_homedir:      gid => 45
+[2011-06-15 14:03:40] homedirs(): _make_homedir: Attempting to create directory: /facvol/dstoffer
+[2011-06-15 14:03:40] homedirs(): _make_homedir: Created home directory: /facvol/dstoffer
+[2011-06-15 14:03:40] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/dstoffer
+[2011-06-15 14:03:40] homedirs(): _make_homedir: /facvol/dstoffer ownership changed to 61803:45
+[2011-06-15 14:03:40] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/dstoffer
+[2011-06-15 14:03:40] homedirs(): _make_homedir: Set permissions on /facvol/dstoffer/.cshrc
+[2011-06-15 14:03:40] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/dstoffer
+[2011-06-15 14:03:40] homedirs(): _make_homedir: Set permissions on /facvol/dstoffer/.login
+[2011-06-15 14:03:40] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/dstoffer
+[2011-06-15 14:03:40] homedirs(): _make_homedir: Set permissions on /facvol/dstoffer/.profile
+[2011-06-15 14:03:40] homedirs(): _make_homedir: returning with value: 1
+[2011-06-15 14:03:40] GRIDLIB(): InitAccount: Created homedir for dstoffer
+[2011-06-18 03:01:39] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-06-18 03:01:39] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-06-18 03:01:39] GRIDLIB(): DeleteAccount: uname  => croux
+[2011-06-18 03:01:39] GRIDLIB(): DeleteAccount: actype => p
+[2011-06-18 03:01:39] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-06-18 03:01:39] homedirs(): _remove_homedir: uname   => croux
+[2011-06-18 03:01:39] homedirs(): _remove_homedir: actype  => p
+[2011-06-18 03:01:39] homedirs(): _remove_homedir: homedir => /phdvol/croux
+[2011-06-18 03:01:39] GRIDLIB(): DeleteAccount: Removed homedir for croux
+[2011-07-20 10:43:30] GRIDLIB(): InitAccount: entering InitAccount()
+[2011-07-20 10:43:30] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2011-07-20 10:43:30] GRIDLIB(): InitAccount: uname  => sorpurt0
+[2011-07-20 10:43:30] GRIDLIB(): InitAccount: uid    => 61819
+[2011-07-20 10:43:30] GRIDLIB(): InitAccount: actype => f
+[2011-07-20 10:43:30] GRIDLIB(): InitAccount: calling _make_homedir()
+[2011-07-20 10:43:30] homedirs(): _make_homedir: entering _make_homedirs()
+[2011-07-20 10:43:30] homedirs(): _make_homedir: homedir  => /facvol/sorpurt0
+[2011-07-20 10:43:30] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2011-07-20 10:43:30] homedirs(): _make_homedir:      gid => 45
+[2011-07-20 10:43:30] homedirs(): _make_homedir: Attempting to create directory: /facvol/sorpurt0
+[2011-07-20 10:43:30] homedirs(): _make_homedir: FAILED to create directory /facvol/sorpurt0: /facvol/sorpurt0 already exists
+[2011-07-22 13:41:33] GRIDLIB(): InitAccount: entering InitAccount()
+[2011-07-22 13:41:33] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2011-07-22 13:41:33] GRIDLIB(): InitAccount: uname  => gzauberm
+[2011-07-22 13:41:33] GRIDLIB(): InitAccount: uid    => 61820
+[2011-07-22 13:41:33] GRIDLIB(): InitAccount: actype => f
+[2011-07-22 13:41:33] GRIDLIB(): InitAccount: calling _make_homedir()
+[2011-07-22 13:41:33] homedirs(): _make_homedir: entering _make_homedirs()
+[2011-07-22 13:41:33] homedirs(): _make_homedir: homedir  => /facvol/gzauberm
+[2011-07-22 13:41:33] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2011-07-22 13:41:33] homedirs(): _make_homedir:      gid => 45
+[2011-07-22 13:41:33] homedirs(): _make_homedir: Attempting to create directory: /facvol/gzauberm
+[2011-07-22 13:41:33] homedirs(): _make_homedir: Created home directory: /facvol/gzauberm
+[2011-07-22 13:41:33] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/gzauberm
+[2011-07-22 13:41:33] homedirs(): _make_homedir: /facvol/gzauberm ownership changed to 61820:45
+[2011-07-22 13:41:34] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/gzauberm
+[2011-07-22 13:41:34] homedirs(): _make_homedir: Set permissions on /facvol/gzauberm/.cshrc
+[2011-07-22 13:41:34] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/gzauberm
+[2011-07-22 13:41:34] homedirs(): _make_homedir: Set permissions on /facvol/gzauberm/.login
+[2011-07-22 13:41:34] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/gzauberm
+[2011-07-22 13:41:34] homedirs(): _make_homedir: Set permissions on /facvol/gzauberm/.profile
+[2011-07-22 13:41:34] homedirs(): _make_homedir: returning with value: 1
+[2011-07-22 13:41:34] GRIDLIB(): InitAccount: Created homedir for gzauberm
+[2011-07-22 13:48:44] GRIDLIB(): InitAccount: entering InitAccount()
+[2011-07-22 13:48:44] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2011-07-22 13:48:44] GRIDLIB(): InitAccount: uname  => nkartik0
+[2011-07-22 13:48:44] GRIDLIB(): InitAccount: uid    => 61821
+[2011-07-22 13:48:44] GRIDLIB(): InitAccount: actype => f
+[2011-07-22 13:48:44] GRIDLIB(): InitAccount: calling _make_homedir()
+[2011-07-22 13:48:44] homedirs(): _make_homedir: entering _make_homedirs()
+[2011-07-22 13:48:44] homedirs(): _make_homedir: homedir  => /facvol/nkartik0
+[2011-07-22 13:48:44] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2011-07-22 13:48:44] homedirs(): _make_homedir:      gid => 45
+[2011-07-22 13:48:44] homedirs(): _make_homedir: Attempting to create directory: /facvol/nkartik0
+[2011-07-22 13:48:44] homedirs(): _make_homedir: Created home directory: /facvol/nkartik0
+[2011-07-22 13:48:44] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/nkartik0
+[2011-07-22 13:48:44] homedirs(): _make_homedir: /facvol/nkartik0 ownership changed to 61821:45
+[2011-07-22 13:48:44] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/nkartik0
+[2011-07-22 13:48:44] homedirs(): _make_homedir: Set permissions on /facvol/nkartik0/.cshrc
+[2011-07-22 13:48:44] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/nkartik0
+[2011-07-22 13:48:44] homedirs(): _make_homedir: Set permissions on /facvol/nkartik0/.login
+[2011-07-22 13:48:44] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/nkartik0
+[2011-07-22 13:48:44] homedirs(): _make_homedir: Set permissions on /facvol/nkartik0/.profile
+[2011-07-22 13:48:44] homedirs(): _make_homedir: returning with value: 1
+[2011-07-22 13:48:44] GRIDLIB(): InitAccount: Created homedir for nkartik0
+[2011-07-22 13:56:08] GRIDLIB(): InitAccount: entering InitAccount()
+[2011-07-22 13:56:08] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2011-07-22 13:56:08] GRIDLIB(): InitAccount: uname  => schassan
+[2011-07-22 13:56:08] GRIDLIB(): InitAccount: uid    => 61822
+[2011-07-22 13:56:08] GRIDLIB(): InitAccount: actype => f
+[2011-07-22 13:56:08] GRIDLIB(): InitAccount: calling _make_homedir()
+[2011-07-22 13:56:08] homedirs(): _make_homedir: entering _make_homedirs()
+[2011-07-22 13:56:08] homedirs(): _make_homedir: homedir  => /facvol/schassan
+[2011-07-22 13:56:08] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2011-07-22 13:56:08] homedirs(): _make_homedir:      gid => 45
+[2011-07-22 13:56:08] homedirs(): _make_homedir: Attempting to create directory: /facvol/schassan
+[2011-07-22 13:56:08] homedirs(): _make_homedir: Created home directory: /facvol/schassan
+[2011-07-22 13:56:08] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/schassan
+[2011-07-22 13:56:08] homedirs(): _make_homedir: /facvol/schassan ownership changed to 61822:45
+[2011-07-22 13:56:08] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/schassan
+[2011-07-22 13:56:08] homedirs(): _make_homedir: Set permissions on /facvol/schassan/.cshrc
+[2011-07-22 13:56:08] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/schassan
+[2011-07-22 13:56:08] homedirs(): _make_homedir: Set permissions on /facvol/schassan/.login
+[2011-07-22 13:56:08] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/schassan
+[2011-07-22 13:56:08] homedirs(): _make_homedir: Set permissions on /facvol/schassan/.profile
+[2011-07-22 13:56:08] homedirs(): _make_homedir: returning with value: 1
+[2011-07-22 13:56:08] GRIDLIB(): InitAccount: Created homedir for schassan
+[2011-08-24 14:54:07] GRIDLIB(): InitAccount: entering InitAccount()
+[2011-08-24 14:54:07] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2011-08-24 14:54:07] GRIDLIB(): InitAccount: uname  => sbartsch
+[2011-08-24 14:54:07] GRIDLIB(): InitAccount: uid    => 61823
+[2011-08-24 14:54:07] GRIDLIB(): InitAccount: actype => f
+[2011-08-24 14:54:07] GRIDLIB(): InitAccount: calling _make_homedir()
+[2011-08-24 14:54:07] homedirs(): _make_homedir: entering _make_homedirs()
+[2011-08-24 14:54:07] homedirs(): _make_homedir: homedir  => /facvol/sbartsch
+[2011-08-24 14:54:07] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2011-08-24 14:54:07] homedirs(): _make_homedir:      gid => 45
+[2011-08-24 14:54:07] homedirs(): _make_homedir: Attempting to create directory: /facvol/sbartsch
+[2011-08-24 14:54:07] homedirs(): _make_homedir: Created home directory: /facvol/sbartsch
+[2011-08-24 14:54:07] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/sbartsch
+[2011-08-24 14:54:07] homedirs(): _make_homedir: /facvol/sbartsch ownership changed to 61823:45
+[2011-08-24 14:54:07] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/sbartsch
+[2011-08-24 14:54:07] homedirs(): _make_homedir: Set permissions on /facvol/sbartsch/.cshrc
+[2011-08-24 14:54:07] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/sbartsch
+[2011-08-24 14:54:07] homedirs(): _make_homedir: Set permissions on /facvol/sbartsch/.login
+[2011-08-24 14:54:07] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/sbartsch
+[2011-08-24 14:54:07] homedirs(): _make_homedir: Set permissions on /facvol/sbartsch/.profile
+[2011-08-24 14:54:07] homedirs(): _make_homedir: returning with value: 1
+[2011-08-24 14:54:07] GRIDLIB(): InitAccount: Created homedir for sbartsch
+[2011-09-13 03:01:20] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-09-13 03:01:20] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-09-13 03:01:20] GRIDLIB(): DeleteAccount: uname  => fwang3
+[2011-09-13 03:01:20] GRIDLIB(): DeleteAccount: actype => p
+[2011-09-13 03:01:20] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-09-13 03:01:20] homedirs(): _remove_homedir: uname   => fwang3
+[2011-09-13 03:01:20] homedirs(): _remove_homedir: actype  => p
+[2011-09-13 03:01:20] homedirs(): _remove_homedir: homedir => /phdvol/fwang3
+[2011-09-13 03:01:20] GRIDLIB(): DeleteAccount: Removed homedir for fwang3
+[2011-09-13 03:01:24] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-09-13 03:01:24] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-09-13 03:01:24] GRIDLIB(): DeleteAccount: uname  => ckim5
+[2011-09-13 03:01:24] GRIDLIB(): DeleteAccount: actype => p
+[2011-09-13 03:01:24] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-09-13 03:01:24] homedirs(): _remove_homedir: uname   => ckim5
+[2011-09-13 03:01:24] homedirs(): _remove_homedir: actype  => p
+[2011-09-13 03:01:24] homedirs(): _remove_homedir: homedir => /phdvol/ckim5
+[2011-09-13 03:01:24] GRIDLIB(): DeleteAccount: Removed homedir for ckim5
+[2011-09-13 03:01:24] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-09-13 03:01:24] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-09-13 03:01:24] GRIDLIB(): DeleteAccount: uname  => smummala
+[2011-09-13 03:01:24] GRIDLIB(): DeleteAccount: actype => p
+[2011-09-13 03:01:24] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-09-13 03:01:24] homedirs(): _remove_homedir: uname   => smummala
+[2011-09-13 03:01:24] homedirs(): _remove_homedir: actype  => p
+[2011-09-13 03:01:24] homedirs(): _remove_homedir: homedir => /phdvol/smummala
+[2011-09-13 03:01:24] GRIDLIB(): DeleteAccount: Removed homedir for smummala
+[2011-09-13 03:01:27] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-09-13 03:01:27] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-09-13 03:01:27] GRIDLIB(): DeleteAccount: uname  => pbonomol
+[2011-09-13 03:01:27] GRIDLIB(): DeleteAccount: actype => p
+[2011-09-13 03:01:27] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-09-13 03:01:27] homedirs(): _remove_homedir: uname   => pbonomol
+[2011-09-13 03:01:27] homedirs(): _remove_homedir: actype  => p
+[2011-09-13 03:01:27] homedirs(): _remove_homedir: homedir => /phdvol/pbonomol
+[2011-09-13 03:01:27] GRIDLIB(): DeleteAccount: Removed homedir for pbonomol
+[2011-09-13 03:01:30] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-09-13 03:01:30] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-09-13 03:01:30] GRIDLIB(): DeleteAccount: uname  => wyu0
+[2011-09-13 03:01:30] GRIDLIB(): DeleteAccount: actype => p
+[2011-09-13 03:01:30] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-09-13 03:01:30] homedirs(): _remove_homedir: uname   => wyu0
+[2011-09-13 03:01:30] homedirs(): _remove_homedir: actype  => p
+[2011-09-13 03:01:30] homedirs(): _remove_homedir: homedir => /phdvol/wyu0
+[2011-09-13 03:01:30] GRIDLIB(): DeleteAccount: Removed homedir for wyu0
+[2011-09-13 03:01:30] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-09-13 03:01:30] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-09-13 03:01:30] GRIDLIB(): DeleteAccount: uname  => sogawa
+[2011-09-13 03:01:30] GRIDLIB(): DeleteAccount: actype => p
+[2011-09-13 03:01:30] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-09-13 03:01:30] homedirs(): _remove_homedir: uname   => sogawa
+[2011-09-13 03:01:30] homedirs(): _remove_homedir: actype  => p
+[2011-09-13 03:01:30] homedirs(): _remove_homedir: homedir => /phdvol/sogawa
+[2011-09-13 03:01:30] GRIDLIB(): DeleteAccount: Removed homedir for sogawa
+[2011-09-13 17:01:08] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-09-13 17:01:08] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-09-13 17:01:08] GRIDLIB(): DeleteAccount: uname  => fwang3
+[2011-09-13 17:01:08] GRIDLIB(): DeleteAccount: actype => p
+[2011-09-13 17:01:08] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-09-13 17:01:08] homedirs(): _remove_homedir: uname   => fwang3
+[2011-09-13 17:01:08] homedirs(): _remove_homedir: actype  => p
+[2011-09-13 17:01:08] homedirs(): _remove_homedir: homedir => /phdvol/fwang3
+[2011-09-13 17:01:08] GRIDLIB(): DeleteAccount: Removed homedir for fwang3
+[2011-09-13 17:01:10] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-09-13 17:01:10] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-09-13 17:01:10] GRIDLIB(): DeleteAccount: uname  => ckim5
+[2011-09-13 17:01:10] GRIDLIB(): DeleteAccount: actype => p
+[2011-09-13 17:01:10] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-09-13 17:01:10] homedirs(): _remove_homedir: uname   => ckim5
+[2011-09-13 17:01:10] homedirs(): _remove_homedir: actype  => p
+[2011-09-13 17:01:10] homedirs(): _remove_homedir: homedir => /phdvol/ckim5
+[2011-09-13 17:01:10] GRIDLIB(): DeleteAccount: Removed homedir for ckim5
+[2011-09-22 12:27:44] GRIDLIB(): InitAccount: entering InitAccount()
+[2011-09-22 12:27:44] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2011-09-22 12:27:44] GRIDLIB(): InitAccount: uname  => jwahlen
+[2011-09-22 12:27:44] GRIDLIB(): InitAccount: uid    => 61824
+[2011-09-22 12:27:44] GRIDLIB(): InitAccount: actype => f
+[2011-09-22 12:27:44] GRIDLIB(): InitAccount: calling _make_homedir()
+[2011-09-22 12:27:44] homedirs(): _make_homedir: entering _make_homedirs()
+[2011-09-22 12:27:44] homedirs(): _make_homedir: homedir  => /facvol/jwahlen
+[2011-09-22 12:27:44] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2011-09-22 12:27:44] homedirs(): _make_homedir:      gid => 45
+[2011-09-22 12:27:44] homedirs(): _make_homedir: Attempting to create directory: /facvol/jwahlen
+[2011-09-22 12:27:44] homedirs(): _make_homedir: Created home directory: /facvol/jwahlen
+[2011-09-22 12:27:44] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/jwahlen
+[2011-09-22 12:27:44] homedirs(): _make_homedir: /facvol/jwahlen ownership changed to 61824:45
+[2011-09-22 12:27:44] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/jwahlen
+[2011-09-22 12:27:44] homedirs(): _make_homedir: Set permissions on /facvol/jwahlen/.cshrc
+[2011-09-22 12:27:44] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/jwahlen
+[2011-09-22 12:27:44] homedirs(): _make_homedir: Set permissions on /facvol/jwahlen/.login
+[2011-09-22 12:27:44] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/jwahlen
+[2011-09-22 12:27:44] homedirs(): _make_homedir: Set permissions on /facvol/jwahlen/.profile
+[2011-09-22 12:27:44] homedirs(): _make_homedir: returning with value: 1
+[2011-09-22 12:27:44] GRIDLIB(): InitAccount: Created homedir for jwahlen
+[2011-10-31 03:00:53] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-10-31 03:00:53] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-10-31 03:00:53] GRIDLIB(): DeleteAccount: uname  => fdphilli
+[2011-10-31 03:00:53] GRIDLIB(): DeleteAccount: actype => f
+[2011-10-31 03:00:53] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-10-31 03:00:53] homedirs(): _remove_homedir: uname   => fdphilli
+[2011-10-31 03:00:53] homedirs(): _remove_homedir: actype  => f
+[2011-10-31 03:00:53] homedirs(): _remove_homedir: homedir => /facvol/fdphilli
+[2011-10-31 03:01:04] GRIDLIB(): DeleteAccount: Removed homedir for fdphilli
+[2011-10-31 03:01:57] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-10-31 03:01:57] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-10-31 03:01:57] GRIDLIB(): DeleteAccount: uname  => rholden1
+[2011-10-31 03:01:57] GRIDLIB(): DeleteAccount: actype => f
+[2011-10-31 03:01:57] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-10-31 03:01:57] homedirs(): _remove_homedir: uname   => rholden1
+[2011-10-31 03:01:57] homedirs(): _remove_homedir: actype  => f
+[2011-10-31 03:01:57] homedirs(): _remove_homedir: homedir => /facvol/rholden1
+[2011-10-31 03:01:57] GRIDLIB(): DeleteAccount: Removed homedir for rholden1
+[2011-10-31 03:03:35] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-10-31 03:03:35] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-10-31 03:03:35] GRIDLIB(): DeleteAccount: uname  => aorhun
+[2011-10-31 03:03:35] GRIDLIB(): DeleteAccount: actype => f
+[2011-10-31 03:03:35] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-10-31 03:03:35] homedirs(): _remove_homedir: uname   => aorhun
+[2011-10-31 03:03:35] homedirs(): _remove_homedir: actype  => f
+[2011-10-31 03:03:35] homedirs(): _remove_homedir: homedir => /facvol/aorhun
+[2011-10-31 03:03:36] GRIDLIB(): DeleteAccount: Removed homedir for aorhun
+[2011-11-26 03:01:42] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-11-26 03:01:42] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-11-26 03:01:42] GRIDLIB(): DeleteAccount: uname  => tmaurer
+[2011-11-26 03:01:42] GRIDLIB(): DeleteAccount: actype => p
+[2011-11-26 03:01:42] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-11-26 03:01:42] homedirs(): _remove_homedir: uname   => tmaurer
+[2011-11-26 03:01:42] homedirs(): _remove_homedir: actype  => p
+[2011-11-26 03:01:42] homedirs(): _remove_homedir: homedir => /phdvol/tmaurer
+[2011-11-26 03:01:42] GRIDLIB(): DeleteAccount: Removed homedir for tmaurer
+[2011-11-29 03:00:56] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-11-29 03:00:56] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-11-29 03:00:56] GRIDLIB(): DeleteAccount: uname  => yhe5
+[2011-11-29 03:00:56] GRIDLIB(): DeleteAccount: actype => p
+[2011-11-29 03:00:56] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-11-29 03:00:56] homedirs(): _remove_homedir: uname   => yhe5
+[2011-11-29 03:00:56] homedirs(): _remove_homedir: actype  => p
+[2011-11-29 03:00:56] homedirs(): _remove_homedir: homedir => /phdvol/yhe5
+[2011-11-29 03:00:56] GRIDLIB(): DeleteAccount: Removed homedir for yhe5
+[2011-12-01 03:01:03] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-12-01 03:01:03] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-12-01 03:01:03] GRIDLIB(): DeleteAccount: uname  => jpeck2
+[2011-12-01 03:01:03] GRIDLIB(): DeleteAccount: actype => f
+[2011-12-01 03:01:03] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-12-01 03:01:03] homedirs(): _remove_homedir: uname   => jpeck2
+[2011-12-01 03:01:03] homedirs(): _remove_homedir: actype  => f
+[2011-12-01 03:01:03] homedirs(): _remove_homedir: homedir => /facvol/jpeck2
+[2011-12-01 03:01:04] GRIDLIB(): DeleteAccount: Removed homedir for jpeck2
+[2011-12-01 03:01:07] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-12-01 03:01:07] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-12-01 03:01:07] GRIDLIB(): DeleteAccount: uname  => ubhattac
+[2011-12-01 03:01:07] GRIDLIB(): DeleteAccount: actype => f
+[2011-12-01 03:01:07] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-12-01 03:01:07] homedirs(): _remove_homedir: uname   => ubhattac
+[2011-12-01 03:01:07] homedirs(): _remove_homedir: actype  => f
+[2011-12-01 03:01:07] homedirs(): _remove_homedir: homedir => /facvol/ubhattac
+[2011-12-01 03:01:07] GRIDLIB(): DeleteAccount: Removed homedir for ubhattac
+[2011-12-01 03:01:10] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-12-01 03:01:10] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-12-01 03:01:10] GRIDLIB(): DeleteAccount: uname  => jledolte
+[2011-12-01 03:01:10] GRIDLIB(): DeleteAccount: actype => f
+[2011-12-01 03:01:10] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-12-01 03:01:10] homedirs(): _remove_homedir: uname   => jledolte
+[2011-12-01 03:01:10] homedirs(): _remove_homedir: actype  => f
+[2011-12-01 03:01:10] homedirs(): _remove_homedir: homedir => /facvol/jledolte
+[2011-12-01 03:01:10] GRIDLIB(): DeleteAccount: Removed homedir for jledolte
+[2011-12-01 03:01:13] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-12-01 03:01:13] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-12-01 03:01:13] GRIDLIB(): DeleteAccount: uname  => lmarsh
+[2011-12-01 03:01:13] GRIDLIB(): DeleteAccount: actype => f
+[2011-12-01 03:01:13] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-12-01 03:01:13] homedirs(): _remove_homedir: uname   => lmarsh
+[2011-12-01 03:01:13] homedirs(): _remove_homedir: actype  => f
+[2011-12-01 03:01:13] homedirs(): _remove_homedir: homedir => /facvol/lmarsh
+[2011-12-01 03:01:13] GRIDLIB(): DeleteAccount: Removed homedir for lmarsh
+[2011-12-01 03:02:03] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-12-01 03:02:03] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-12-01 03:02:03] GRIDLIB(): DeleteAccount: uname  => enakamur
+[2011-12-01 03:02:03] GRIDLIB(): DeleteAccount: actype => f
+[2011-12-01 03:02:03] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-12-01 03:02:03] homedirs(): _remove_homedir: uname   => enakamur
+[2011-12-01 03:02:03] homedirs(): _remove_homedir: actype  => f
+[2011-12-01 03:02:03] homedirs(): _remove_homedir: homedir => /facvol/enakamur
+[2011-12-01 03:02:03] GRIDLIB(): DeleteAccount: Removed homedir for enakamur
+[2011-12-01 03:02:04] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-12-01 03:02:04] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-12-01 03:02:04] GRIDLIB(): DeleteAccount: uname  => jsteinss
+[2011-12-01 03:02:04] GRIDLIB(): DeleteAccount: actype => f
+[2011-12-01 03:02:04] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-12-01 03:02:04] homedirs(): _remove_homedir: uname   => jsteinss
+[2011-12-01 03:02:04] homedirs(): _remove_homedir: actype  => f
+[2011-12-01 03:02:04] homedirs(): _remove_homedir: homedir => /facvol/jsteinss
+[2011-12-01 03:02:04] GRIDLIB(): DeleteAccount: Removed homedir for jsteinss
+[2011-12-01 03:02:05] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-12-01 03:02:05] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-12-01 03:02:05] GRIDLIB(): DeleteAccount: uname  => pboczkow
+[2011-12-01 03:02:05] GRIDLIB(): DeleteAccount: actype => f
+[2011-12-01 03:02:05] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-12-01 03:02:05] homedirs(): _remove_homedir: uname   => pboczkow
+[2011-12-01 03:02:05] homedirs(): _remove_homedir: actype  => f
+[2011-12-01 03:02:05] homedirs(): _remove_homedir: homedir => /facvol/pboczkow
+[2011-12-01 03:02:05] GRIDLIB(): DeleteAccount: Removed homedir for pboczkow
+[2011-12-01 03:02:06] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-12-01 03:02:06] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-12-01 03:02:06] GRIDLIB(): DeleteAccount: uname  => sledigab
+[2011-12-01 03:02:06] GRIDLIB(): DeleteAccount: actype => f
+[2011-12-01 03:02:06] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-12-01 03:02:06] homedirs(): _remove_homedir: uname   => sledigab
+[2011-12-01 03:02:06] homedirs(): _remove_homedir: actype  => f
+[2011-12-01 03:02:06] homedirs(): _remove_homedir: homedir => /facvol/sledigab
+[2011-12-01 03:02:06] GRIDLIB(): DeleteAccount: Removed homedir for sledigab
+[2011-12-01 03:02:08] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-12-01 03:02:08] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-12-01 03:02:08] GRIDLIB(): DeleteAccount: uname  => vsmeets
+[2011-12-01 03:02:08] GRIDLIB(): DeleteAccount: actype => f
+[2011-12-01 03:02:08] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-12-01 03:02:08] homedirs(): _remove_homedir: uname   => vsmeets
+[2011-12-01 03:02:08] homedirs(): _remove_homedir: actype  => f
+[2011-12-01 03:02:08] homedirs(): _remove_homedir: homedir => /facvol/vsmeets
+[2011-12-01 03:02:08] GRIDLIB(): DeleteAccount: Removed homedir for vsmeets
+[2011-12-01 03:02:09] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-12-01 03:02:09] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-12-01 03:02:09] GRIDLIB(): DeleteAccount: uname  => wpowell
+[2011-12-01 03:02:09] GRIDLIB(): DeleteAccount: actype => f
+[2011-12-01 03:02:09] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-12-01 03:02:09] homedirs(): _remove_homedir: uname   => wpowell
+[2011-12-01 03:02:09] homedirs(): _remove_homedir: actype  => f
+[2011-12-01 03:02:09] homedirs(): _remove_homedir: homedir => /facvol/wpowell
+[2011-12-01 03:02:09] GRIDLIB(): DeleteAccount: Removed homedir for wpowell
+[2011-12-14 13:01:10] GRIDLIB(): InitAccount: entering InitAccount()
+[2011-12-14 13:01:10] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2011-12-14 13:01:10] GRIDLIB(): InitAccount: uname  => bfouc
+[2011-12-14 13:01:10] GRIDLIB(): InitAccount: uid    => 61825
+[2011-12-14 13:01:10] GRIDLIB(): InitAccount: actype => f
+[2011-12-14 13:01:10] GRIDLIB(): InitAccount: calling _make_homedir()
+[2011-12-14 13:01:10] homedirs(): _make_homedir: entering _make_homedirs()
+[2011-12-14 13:01:10] homedirs(): _make_homedir: homedir  => /facvol/bfouc
+[2011-12-14 13:01:10] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2011-12-14 13:01:10] homedirs(): _make_homedir:      gid => 45
+[2011-12-14 13:01:10] homedirs(): _make_homedir: Attempting to create directory: /facvol/bfouc
+[2011-12-14 13:01:10] homedirs(): _make_homedir: Created home directory: /facvol/bfouc
+[2011-12-14 13:01:10] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/bfouc
+[2011-12-14 13:01:10] homedirs(): _make_homedir: /facvol/bfouc ownership changed to 61825:45
+[2011-12-14 13:01:10] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/bfouc
+[2011-12-14 13:01:10] homedirs(): _make_homedir: Set permissions on /facvol/bfouc/.cshrc
+[2011-12-14 13:01:10] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/bfouc
+[2011-12-14 13:01:10] homedirs(): _make_homedir: Set permissions on /facvol/bfouc/.login
+[2011-12-14 13:01:10] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/bfouc
+[2011-12-14 13:01:10] homedirs(): _make_homedir: Set permissions on /facvol/bfouc/.profile
+[2011-12-14 13:01:10] homedirs(): _make_homedir: returning with value: 1
+[2011-12-14 13:01:10] GRIDLIB(): InitAccount: Created homedir for bfouc
+[2011-12-14 14:40:07] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-12-14 14:40:07] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-12-14 14:40:07] GRIDLIB(): DeleteAccount: uname  => bfouc
+[2011-12-14 14:40:07] GRIDLIB(): DeleteAccount: actype => f
+[2011-12-14 14:40:07] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-12-14 14:40:07] homedirs(): _remove_homedir: uname   => bfouc
+[2011-12-14 14:40:07] homedirs(): _remove_homedir: actype  => f
+[2011-12-14 14:40:07] homedirs(): _remove_homedir: homedir => /facvol/bfouc
+[2011-12-14 14:40:09] GRIDLIB(): DeleteAccount: Removed homedir for bfouc
+[2011-12-14 14:43:43] GRIDLIB(): InitAccount: entering InitAccount()
+[2011-12-14 14:43:43] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2011-12-14 14:43:43] GRIDLIB(): InitAccount: uname  => bfoucaul
+[2011-12-14 14:43:43] GRIDLIB(): InitAccount: uid    => 61826
+[2011-12-14 14:43:43] GRIDLIB(): InitAccount: actype => f
+[2011-12-14 14:43:43] GRIDLIB(): InitAccount: calling _make_homedir()
+[2011-12-14 14:43:43] homedirs(): _make_homedir: entering _make_homedirs()
+[2011-12-14 14:43:43] homedirs(): _make_homedir: homedir  => /facvol/bfoucaul
+[2011-12-14 14:43:43] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2011-12-14 14:43:43] homedirs(): _make_homedir:      gid => 45
+[2011-12-14 14:43:43] homedirs(): _make_homedir: Attempting to create directory: /facvol/bfoucaul
+[2011-12-14 14:43:43] homedirs(): _make_homedir: Created home directory: /facvol/bfoucaul
+[2011-12-14 14:43:43] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/bfoucaul
+[2011-12-14 14:43:43] homedirs(): _make_homedir: /facvol/bfoucaul ownership changed to 61826:45
+[2011-12-14 14:43:43] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/bfoucaul
+[2011-12-14 14:43:43] homedirs(): _make_homedir: Set permissions on /facvol/bfoucaul/.cshrc
+[2011-12-14 14:43:43] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/bfoucaul
+[2011-12-14 14:43:43] homedirs(): _make_homedir: Set permissions on /facvol/bfoucaul/.login
+[2011-12-14 14:43:43] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/bfoucaul
+[2011-12-14 14:43:43] homedirs(): _make_homedir: Set permissions on /facvol/bfoucaul/.profile
+[2011-12-14 14:43:43] homedirs(): _make_homedir: returning with value: 1
+[2011-12-14 14:43:43] GRIDLIB(): InitAccount: Created homedir for bfoucaul
+[2011-12-16 03:01:06] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-12-16 03:01:06] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-12-16 03:01:06] GRIDLIB(): DeleteAccount: uname  => skingsle
+[2011-12-16 03:01:06] GRIDLIB(): DeleteAccount: actype => p
+[2011-12-16 03:01:06] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-12-16 03:01:06] homedirs(): _remove_homedir: uname   => skingsle
+[2011-12-16 03:01:06] homedirs(): _remove_homedir: actype  => p
+[2011-12-16 03:01:06] homedirs(): _remove_homedir: homedir => /phdvol/skingsle
+[2011-12-16 03:01:07] GRIDLIB(): DeleteAccount: Removed homedir for skingsle
+[2011-12-26 03:19:09] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-12-26 03:19:09] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-12-26 03:19:09] GRIDLIB(): DeleteAccount: uname  => ubruggem
+[2011-12-26 03:19:09] GRIDLIB(): DeleteAccount: actype => p
+[2011-12-26 03:19:09] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-12-26 03:19:09] homedirs(): _remove_homedir: uname   => ubruggem
+[2011-12-26 03:19:09] homedirs(): _remove_homedir: actype  => p
+[2011-12-26 03:19:09] homedirs(): _remove_homedir: homedir => /phdvol/ubruggem
+[2011-12-26 03:19:09] GRIDLIB(): DeleteAccount: Removed homedir for ubruggem
+[2011-12-29 03:01:12] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2011-12-29 03:01:12] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2011-12-29 03:01:12] GRIDLIB(): DeleteAccount: uname  => cfratto
+[2011-12-29 03:01:12] GRIDLIB(): DeleteAccount: actype => p
+[2011-12-29 03:01:12] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2011-12-29 03:01:12] homedirs(): _remove_homedir: uname   => cfratto
+[2011-12-29 03:01:12] homedirs(): _remove_homedir: actype  => p
+[2011-12-29 03:01:12] homedirs(): _remove_homedir: homedir => /phdvol/cfratto
+[2011-12-29 03:01:12] GRIDLIB(): DeleteAccount: Removed homedir for cfratto
+[2012-01-11 16:24:42] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-01-11 16:24:42] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-01-11 16:24:42] GRIDLIB(): InitAccount: uname  => chadlock
+[2012-01-11 16:24:42] GRIDLIB(): InitAccount: uid    => 61827
+[2012-01-11 16:24:42] GRIDLIB(): InitAccount: actype => f
+[2012-01-11 16:24:42] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-01-11 16:24:42] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-01-11 16:24:42] homedirs(): _make_homedir: homedir  => /facvol/chadlock
+[2012-01-11 16:24:42] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-01-11 16:24:42] homedirs(): _make_homedir:      gid => 45
+[2012-01-11 16:24:42] homedirs(): _make_homedir: Attempting to create directory: /facvol/chadlock
+[2012-01-11 16:24:43] homedirs(): _make_homedir: FAILED to create directory /facvol/chadlock: /facvol/chadlock already exists
+[2012-01-26 14:25:32] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-01-26 14:25:32] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-01-26 14:25:32] GRIDLIB(): InitAccount: uname  => vgupta4
+[2012-01-26 14:25:32] GRIDLIB(): InitAccount: uid    => 61828
+[2012-01-26 14:25:32] GRIDLIB(): InitAccount: actype => f
+[2012-01-26 14:25:32] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-01-26 14:25:32] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-01-26 14:25:32] homedirs(): _make_homedir: homedir  => /facvol/vgupta4
+[2012-01-26 14:25:32] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-01-26 14:25:32] homedirs(): _make_homedir:      gid => 45
+[2012-01-26 14:25:32] homedirs(): _make_homedir: Attempting to create directory: /facvol/vgupta4
+[2012-01-26 14:25:32] homedirs(): _make_homedir: Created home directory: /facvol/vgupta4
+[2012-01-26 14:25:32] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/vgupta4
+[2012-01-26 14:25:32] homedirs(): _make_homedir: /facvol/vgupta4 ownership changed to 61828:45
+[2012-01-26 14:25:32] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/vgupta4
+[2012-01-26 14:25:32] homedirs(): _make_homedir: Set permissions on /facvol/vgupta4/.cshrc
+[2012-01-26 14:25:32] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/vgupta4
+[2012-01-26 14:25:32] homedirs(): _make_homedir: Set permissions on /facvol/vgupta4/.login
+[2012-01-26 14:25:32] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/vgupta4
+[2012-01-26 14:25:32] homedirs(): _make_homedir: Set permissions on /facvol/vgupta4/.profile
+[2012-01-26 14:25:32] homedirs(): _make_homedir: returning with value: 1
+[2012-01-26 14:25:32] GRIDLIB(): InitAccount: Created homedir for vgupta4
+[2012-01-26 14:46:24] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-01-26 14:46:24] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-01-26 14:46:24] GRIDLIB(): InitAccount: uname  => nmahoney
+[2012-01-26 14:46:24] GRIDLIB(): InitAccount: uid    => 61829
+[2012-01-26 14:46:24] GRIDLIB(): InitAccount: actype => f
+[2012-01-26 14:46:24] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-01-26 14:46:24] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-01-26 14:46:24] homedirs(): _make_homedir: homedir  => /facvol/nmahoney
+[2012-01-26 14:46:24] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-01-26 14:46:24] homedirs(): _make_homedir:      gid => 45
+[2012-01-26 14:46:24] homedirs(): _make_homedir: Attempting to create directory: /facvol/nmahoney
+[2012-01-26 14:46:24] homedirs(): _make_homedir: Created home directory: /facvol/nmahoney
+[2012-01-26 14:46:24] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/nmahoney
+[2012-01-26 14:46:24] homedirs(): _make_homedir: /facvol/nmahoney ownership changed to 61829:45
+[2012-01-26 14:46:24] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/nmahoney
+[2012-01-26 14:46:24] homedirs(): _make_homedir: Set permissions on /facvol/nmahoney/.cshrc
+[2012-01-26 14:46:24] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/nmahoney
+[2012-01-26 14:46:24] homedirs(): _make_homedir: Set permissions on /facvol/nmahoney/.login
+[2012-01-26 14:46:24] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/nmahoney
+[2012-01-26 14:46:24] homedirs(): _make_homedir: Set permissions on /facvol/nmahoney/.profile
+[2012-01-26 14:46:24] homedirs(): _make_homedir: returning with value: 1
+[2012-01-26 14:46:24] GRIDLIB(): InitAccount: Created homedir for nmahoney
+[2012-01-26 14:56:23] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-01-26 14:56:23] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-01-26 14:56:23] GRIDLIB(): InitAccount: uname  => cnosko
+[2012-01-26 14:56:23] GRIDLIB(): InitAccount: uid    => 61830
+[2012-01-26 14:56:23] GRIDLIB(): InitAccount: actype => f
+[2012-01-26 14:56:23] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-01-26 14:56:23] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-01-26 14:56:23] homedirs(): _make_homedir: homedir  => /facvol/cnosko
+[2012-01-26 14:56:23] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-01-26 14:56:23] homedirs(): _make_homedir:      gid => 45
+[2012-01-26 14:56:23] homedirs(): _make_homedir: Attempting to create directory: /facvol/cnosko
+[2012-01-26 14:56:23] homedirs(): _make_homedir: Created home directory: /facvol/cnosko
+[2012-01-26 14:56:23] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/cnosko
+[2012-01-26 14:56:23] homedirs(): _make_homedir: /facvol/cnosko ownership changed to 61830:45
+[2012-01-26 14:56:23] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/cnosko
+[2012-01-26 14:56:23] homedirs(): _make_homedir: Set permissions on /facvol/cnosko/.cshrc
+[2012-01-26 14:56:23] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/cnosko
+[2012-01-26 14:56:23] homedirs(): _make_homedir: Set permissions on /facvol/cnosko/.login
+[2012-01-26 14:56:23] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/cnosko
+[2012-01-26 14:56:23] homedirs(): _make_homedir: Set permissions on /facvol/cnosko/.profile
+[2012-01-26 14:56:23] homedirs(): _make_homedir: returning with value: 1
+[2012-01-26 14:56:23] GRIDLIB(): InitAccount: Created homedir for cnosko
+[2012-01-26 15:15:56] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-01-26 15:15:56] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-01-26 15:15:56] GRIDLIB(): InitAccount: uname  => arao0
+[2012-01-26 15:15:56] GRIDLIB(): InitAccount: uid    => 61831
+[2012-01-26 15:15:56] GRIDLIB(): InitAccount: actype => f
+[2012-01-26 15:15:56] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-01-26 15:15:56] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-01-26 15:15:56] homedirs(): _make_homedir: homedir  => /facvol/arao0
+[2012-01-26 15:15:56] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-01-26 15:15:56] homedirs(): _make_homedir:      gid => 45
+[2012-01-26 15:15:56] homedirs(): _make_homedir: Attempting to create directory: /facvol/arao0
+[2012-01-26 15:15:56] homedirs(): _make_homedir: Created home directory: /facvol/arao0
+[2012-01-26 15:15:56] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/arao0
+[2012-01-26 15:15:56] homedirs(): _make_homedir: /facvol/arao0 ownership changed to 61831:45
+[2012-01-26 15:15:56] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/arao0
+[2012-01-26 15:15:56] homedirs(): _make_homedir: Set permissions on /facvol/arao0/.cshrc
+[2012-01-26 15:15:56] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/arao0
+[2012-01-26 15:15:56] homedirs(): _make_homedir: Set permissions on /facvol/arao0/.login
+[2012-01-26 15:15:56] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/arao0
+[2012-01-26 15:15:56] homedirs(): _make_homedir: Set permissions on /facvol/arao0/.profile
+[2012-01-26 15:15:56] homedirs(): _make_homedir: returning with value: 1
+[2012-01-26 15:15:56] GRIDLIB(): InitAccount: Created homedir for arao0
+[2012-02-03 12:14:26] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-02-03 12:14:26] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-02-03 12:14:26] GRIDLIB(): InitAccount: uname  => rem
+[2012-02-03 12:14:26] GRIDLIB(): InitAccount: uid    => 61832
+[2012-02-03 12:14:26] GRIDLIB(): InitAccount: actype => f
+[2012-02-03 12:14:26] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-02-03 12:14:26] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-02-03 12:14:26] homedirs(): _make_homedir: homedir  => /facvol/rem
+[2012-02-03 12:14:26] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-02-03 12:14:26] homedirs(): _make_homedir:      gid => 45
+[2012-02-03 12:14:26] homedirs(): _make_homedir: Attempting to create directory: /facvol/rem
+[2012-02-03 12:14:26] homedirs(): _make_homedir: Created home directory: /facvol/rem
+[2012-02-03 12:14:26] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/rem
+[2012-02-03 12:14:26] homedirs(): _make_homedir: /facvol/rem ownership changed to 61832:45
+[2012-02-03 12:14:26] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/rem
+[2012-02-03 12:14:26] homedirs(): _make_homedir: Set permissions on /facvol/rem/.cshrc
+[2012-02-03 12:14:26] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/rem
+[2012-02-03 12:14:26] homedirs(): _make_homedir: Set permissions on /facvol/rem/.login
+[2012-02-03 12:14:26] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/rem
+[2012-02-03 12:14:26] homedirs(): _make_homedir: Set permissions on /facvol/rem/.profile
+[2012-02-03 12:14:26] homedirs(): _make_homedir: returning with value: 1
+[2012-02-03 12:14:26] GRIDLIB(): InitAccount: Created homedir for rem
+[2012-02-20 15:11:41] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-02-20 15:11:41] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-02-20 15:11:41] GRIDLIB(): InitAccount: uname  => ashah8
+[2012-02-20 15:11:41] GRIDLIB(): InitAccount: uid    => 61833
+[2012-02-20 15:11:41] GRIDLIB(): InitAccount: actype => f
+[2012-02-20 15:11:41] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-02-20 15:11:41] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-02-20 15:11:41] homedirs(): _make_homedir: homedir  => /facvol/ashah8
+[2012-02-20 15:11:41] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-02-20 15:11:41] homedirs(): _make_homedir:      gid => 45
+[2012-02-20 15:11:41] homedirs(): _make_homedir: Attempting to create directory: /facvol/ashah8
+[2012-02-20 15:11:41] homedirs(): _make_homedir: Created home directory: /facvol/ashah8
+[2012-02-20 15:11:41] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/ashah8
+[2012-02-20 15:11:41] homedirs(): _make_homedir: /facvol/ashah8 ownership changed to 61833:45
+[2012-02-20 15:11:41] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/ashah8
+[2012-02-20 15:11:41] homedirs(): _make_homedir: Set permissions on /facvol/ashah8/.cshrc
+[2012-02-20 15:11:41] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/ashah8
+[2012-02-20 15:11:41] homedirs(): _make_homedir: Set permissions on /facvol/ashah8/.login
+[2012-02-20 15:11:41] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/ashah8
+[2012-02-20 15:11:41] homedirs(): _make_homedir: Set permissions on /facvol/ashah8/.profile
+[2012-02-20 15:11:41] homedirs(): _make_homedir: returning with value: 1
+[2012-02-20 15:11:41] GRIDLIB(): InitAccount: Created homedir for ashah8
+[2012-03-01 12:33:18] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-03-01 12:33:18] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-03-01 12:33:18] GRIDLIB(): InitAccount: uname  => ebelavin
+[2012-03-01 12:33:18] GRIDLIB(): InitAccount: uid    => 61834
+[2012-03-01 12:33:18] GRIDLIB(): InitAccount: actype => f
+[2012-03-01 12:33:18] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-03-01 12:33:18] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-03-01 12:33:18] homedirs(): _make_homedir: homedir  => /facvol/ebelavin
+[2012-03-01 12:33:18] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-03-01 12:33:18] homedirs(): _make_homedir:      gid => 45
+[2012-03-01 12:33:18] homedirs(): _make_homedir: Attempting to create directory: /facvol/ebelavin
+[2012-03-01 12:33:18] homedirs(): _make_homedir: Created home directory: /facvol/ebelavin
+[2012-03-01 12:33:18] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/ebelavin
+[2012-03-01 12:33:18] homedirs(): _make_homedir: /facvol/ebelavin ownership changed to 61834:45
+[2012-03-01 12:33:18] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/ebelavin
+[2012-03-01 12:33:18] homedirs(): _make_homedir: Set permissions on /facvol/ebelavin/.cshrc
+[2012-03-01 12:33:18] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/ebelavin
+[2012-03-01 12:33:18] homedirs(): _make_homedir: Set permissions on /facvol/ebelavin/.login
+[2012-03-01 12:33:18] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/ebelavin
+[2012-03-01 12:33:18] homedirs(): _make_homedir: Set permissions on /facvol/ebelavin/.profile
+[2012-03-01 12:33:18] homedirs(): _make_homedir: returning with value: 1
+[2012-03-01 12:33:18] GRIDLIB(): InitAccount: Created homedir for ebelavin
+[2012-03-13 13:26:05] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-03-13 13:26:05] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-03-13 13:26:05] GRIDLIB(): InitAccount: uname  => jstroebe
+[2012-03-13 13:26:05] GRIDLIB(): InitAccount: uid    => 61835
+[2012-03-13 13:26:05] GRIDLIB(): InitAccount: actype => f
+[2012-03-13 13:26:05] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-03-13 13:26:05] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-03-13 13:26:05] homedirs(): _make_homedir: homedir  => /facvol/jstroebe
+[2012-03-13 13:26:05] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-03-13 13:26:05] homedirs(): _make_homedir:      gid => 45
+[2012-03-13 13:26:05] homedirs(): _make_homedir: Attempting to create directory: /facvol/jstroebe
+[2012-03-13 13:26:05] homedirs(): _make_homedir: Created home directory: /facvol/jstroebe
+[2012-03-13 13:26:05] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/jstroebe
+[2012-03-13 13:26:05] homedirs(): _make_homedir: /facvol/jstroebe ownership changed to 61835:45
+[2012-03-13 13:26:05] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/jstroebe
+[2012-03-13 13:26:05] homedirs(): _make_homedir: Set permissions on /facvol/jstroebe/.cshrc
+[2012-03-13 13:26:05] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/jstroebe
+[2012-03-13 13:26:05] homedirs(): _make_homedir: Set permissions on /facvol/jstroebe/.login
+[2012-03-13 13:26:05] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/jstroebe
+[2012-03-13 13:26:05] homedirs(): _make_homedir: Set permissions on /facvol/jstroebe/.profile
+[2012-03-13 13:26:05] homedirs(): _make_homedir: returning with value: 1
+[2012-03-13 13:26:05] GRIDLIB(): InitAccount: Created homedir for jstroebe
+[2012-03-13 13:45:34] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-03-13 13:45:34] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-03-13 13:45:34] GRIDLIB(): InitAccount: uname  => jvavra0
+[2012-03-13 13:45:34] GRIDLIB(): InitAccount: uid    => 61836
+[2012-03-13 13:45:34] GRIDLIB(): InitAccount: actype => f
+[2012-03-13 13:45:34] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-03-13 13:45:34] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-03-13 13:45:34] homedirs(): _make_homedir: homedir  => /facvol/jvavra0
+[2012-03-13 13:45:34] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-03-13 13:45:34] homedirs(): _make_homedir:      gid => 45
+[2012-03-13 13:45:34] homedirs(): _make_homedir: Attempting to create directory: /facvol/jvavra0
+[2012-03-13 13:45:34] homedirs(): _make_homedir: Created home directory: /facvol/jvavra0
+[2012-03-13 13:45:34] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/jvavra0
+[2012-03-13 13:45:34] homedirs(): _make_homedir: /facvol/jvavra0 ownership changed to 61836:45
+[2012-03-13 13:45:34] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/jvavra0
+[2012-03-13 13:45:34] homedirs(): _make_homedir: Set permissions on /facvol/jvavra0/.cshrc
+[2012-03-13 13:45:34] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/jvavra0
+[2012-03-13 13:45:34] homedirs(): _make_homedir: Set permissions on /facvol/jvavra0/.login
+[2012-03-13 13:45:34] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/jvavra0
+[2012-03-13 13:45:34] homedirs(): _make_homedir: Set permissions on /facvol/jvavra0/.profile
+[2012-03-13 13:45:34] homedirs(): _make_homedir: returning with value: 1
+[2012-03-13 13:45:34] GRIDLIB(): InitAccount: Created homedir for jvavra0
+[2012-03-13 13:52:42] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-03-13 13:52:42] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-03-13 13:52:42] GRIDLIB(): InitAccount: uname  => azakolyu
+[2012-03-13 13:52:42] GRIDLIB(): InitAccount: uid    => 61837
+[2012-03-13 13:52:42] GRIDLIB(): InitAccount: actype => f
+[2012-03-13 13:52:42] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-03-13 13:52:42] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-03-13 13:52:42] homedirs(): _make_homedir: homedir  => /facvol/azakolyu
+[2012-03-13 13:52:42] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-03-13 13:52:42] homedirs(): _make_homedir:      gid => 45
+[2012-03-13 13:52:42] homedirs(): _make_homedir: Attempting to create directory: /facvol/azakolyu
+[2012-03-13 13:52:42] homedirs(): _make_homedir: Created home directory: /facvol/azakolyu
+[2012-03-13 13:52:42] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/azakolyu
+[2012-03-13 13:52:42] homedirs(): _make_homedir: /facvol/azakolyu ownership changed to 61837:45
+[2012-03-13 13:52:42] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/azakolyu
+[2012-03-13 13:52:42] homedirs(): _make_homedir: Set permissions on /facvol/azakolyu/.cshrc
+[2012-03-13 13:52:42] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/azakolyu
+[2012-03-13 13:52:42] homedirs(): _make_homedir: Set permissions on /facvol/azakolyu/.login
+[2012-03-13 13:52:42] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/azakolyu
+[2012-03-13 13:52:42] homedirs(): _make_homedir: Set permissions on /facvol/azakolyu/.profile
+[2012-03-13 13:52:42] homedirs(): _make_homedir: returning with value: 1
+[2012-03-13 13:52:42] GRIDLIB(): InitAccount: Created homedir for azakolyu
+[2012-03-14 03:00:37] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2012-03-14 03:00:37] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2012-03-14 03:00:37] GRIDLIB(): DeleteAccount: uname  => fwang3
+[2012-03-14 03:00:37] GRIDLIB(): DeleteAccount: actype => p
+[2012-03-14 03:00:37] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2012-03-14 03:00:37] homedirs(): _remove_homedir: uname   => fwang3
+[2012-03-14 03:00:37] homedirs(): _remove_homedir: actype  => p
+[2012-03-14 03:00:37] homedirs(): _remove_homedir: homedir => /phdvol/fwang3
+[2012-03-14 03:00:37] GRIDLIB(): DeleteAccount: Removed homedir for fwang3
+[2012-03-14 03:00:39] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2012-03-14 03:00:39] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2012-03-14 03:00:39] GRIDLIB(): DeleteAccount: uname  => jcoupet
+[2012-03-14 03:00:39] GRIDLIB(): DeleteAccount: actype => p
+[2012-03-14 03:00:39] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2012-03-14 03:00:39] homedirs(): _remove_homedir: uname   => jcoupet
+[2012-03-14 03:00:39] homedirs(): _remove_homedir: actype  => p
+[2012-03-14 03:00:39] homedirs(): _remove_homedir: homedir => /phdvol/jcoupet
+[2012-03-14 03:00:39] GRIDLIB(): DeleteAccount: Removed homedir for jcoupet
+[2012-03-16 13:07:22] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-03-16 13:07:22] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-03-16 13:07:22] GRIDLIB(): InitAccount: uname  => nkeskin
+[2012-03-16 13:07:22] GRIDLIB(): InitAccount: uid    => 61838
+[2012-03-16 13:07:22] GRIDLIB(): InitAccount: actype => f
+[2012-03-16 13:07:22] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-03-16 13:07:22] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-03-16 13:07:22] homedirs(): _make_homedir: homedir  => /facvol/nkeskin
+[2012-03-16 13:07:22] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-03-16 13:07:22] homedirs(): _make_homedir:      gid => 45
+[2012-03-16 13:07:22] homedirs(): _make_homedir: Attempting to create directory: /facvol/nkeskin
+[2012-03-16 13:07:22] homedirs(): _make_homedir: Created home directory: /facvol/nkeskin
+[2012-03-16 13:07:22] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/nkeskin
+[2012-03-16 13:07:22] homedirs(): _make_homedir: /facvol/nkeskin ownership changed to 61838:45
+[2012-03-16 13:07:22] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/nkeskin
+[2012-03-16 13:07:22] homedirs(): _make_homedir: Set permissions on /facvol/nkeskin/.cshrc
+[2012-03-16 13:07:22] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/nkeskin
+[2012-03-16 13:07:22] homedirs(): _make_homedir: Set permissions on /facvol/nkeskin/.login
+[2012-03-16 13:07:22] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/nkeskin
+[2012-03-16 13:07:22] homedirs(): _make_homedir: Set permissions on /facvol/nkeskin/.profile
+[2012-03-16 13:07:22] homedirs(): _make_homedir: returning with value: 1
+[2012-03-16 13:07:22] GRIDLIB(): InitAccount: Created homedir for nkeskin
+[2012-03-21 03:00:18] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2012-03-21 03:00:18] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2012-03-21 03:00:18] GRIDLIB(): DeleteAccount: uname  => hkim3
+[2012-03-21 03:00:18] GRIDLIB(): DeleteAccount: actype => p
+[2012-03-21 03:00:18] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2012-03-21 03:00:18] homedirs(): _remove_homedir: uname   => hkim3
+[2012-03-21 03:00:18] homedirs(): _remove_homedir: actype  => p
+[2012-03-21 03:00:18] homedirs(): _remove_homedir: homedir => /phdvol/hkim3
+[2012-03-21 03:00:18] GRIDLIB(): DeleteAccount: Removed homedir for hkim3
+[2012-03-27 14:01:27] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-03-27 14:01:27] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-03-27 14:01:27] GRIDLIB(): InitAccount: uname  => mmaffett
+[2012-03-27 14:01:27] GRIDLIB(): InitAccount: uid    => 61839
+[2012-03-27 14:01:27] GRIDLIB(): InitAccount: actype => f
+[2012-03-27 14:01:27] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-03-27 14:01:27] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-03-27 14:01:27] homedirs(): _make_homedir: homedir  => /facvol/mmaffett
+[2012-03-27 14:01:27] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-03-27 14:01:27] homedirs(): _make_homedir:      gid => 45
+[2012-03-27 14:01:27] homedirs(): _make_homedir: Attempting to create directory: /facvol/mmaffett
+[2012-03-27 14:01:27] homedirs(): _make_homedir: Created home directory: /facvol/mmaffett
+[2012-03-27 14:01:27] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/mmaffett
+[2012-03-27 14:01:27] homedirs(): _make_homedir: /facvol/mmaffett ownership changed to 61839:45
+[2012-03-27 14:01:27] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/mmaffett
+[2012-03-27 14:01:27] homedirs(): _make_homedir: Set permissions on /facvol/mmaffett/.cshrc
+[2012-03-27 14:01:27] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/mmaffett
+[2012-03-27 14:01:27] homedirs(): _make_homedir: Set permissions on /facvol/mmaffett/.login
+[2012-03-27 14:01:27] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/mmaffett
+[2012-03-27 14:01:27] homedirs(): _make_homedir: Set permissions on /facvol/mmaffett/.profile
+[2012-03-27 14:01:27] homedirs(): _make_homedir: returning with value: 1
+[2012-03-27 14:01:27] GRIDLIB(): InitAccount: Created homedir for mmaffett
+[2012-04-25 16:54:59] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-04-25 16:54:59] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-04-25 16:54:59] GRIDLIB(): InitAccount: uname  => jliberti
+[2012-04-25 16:54:59] GRIDLIB(): InitAccount: uid    => 61840
+[2012-04-25 16:54:59] GRIDLIB(): InitAccount: actype => f
+[2012-04-25 16:54:59] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-04-25 16:54:59] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-04-25 16:54:59] homedirs(): _make_homedir: homedir  => /facvol/jliberti
+[2012-04-25 16:54:59] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-04-25 16:54:59] homedirs(): _make_homedir:      gid => 45
+[2012-04-25 16:54:59] homedirs(): _make_homedir: Attempting to create directory: /facvol/jliberti
+[2012-04-25 16:54:59] homedirs(): _make_homedir: Created home directory: /facvol/jliberti
+[2012-04-25 16:54:59] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/jliberti
+[2012-04-25 16:54:59] homedirs(): _make_homedir: /facvol/jliberti ownership changed to 61840:45
+[2012-04-25 16:54:59] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/jliberti
+[2012-04-25 16:54:59] homedirs(): _make_homedir: Set permissions on /facvol/jliberti/.cshrc
+[2012-04-25 16:54:59] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/jliberti
+[2012-04-25 16:54:59] homedirs(): _make_homedir: Set permissions on /facvol/jliberti/.login
+[2012-04-25 16:54:59] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/jliberti
+[2012-04-25 16:54:59] homedirs(): _make_homedir: Set permissions on /facvol/jliberti/.profile
+[2012-04-25 16:54:59] homedirs(): _make_homedir: returning with value: 1
+[2012-04-25 16:54:59] GRIDLIB(): InitAccount: Created homedir for jliberti
+[2012-05-01 03:00:34] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2012-05-01 03:00:34] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2012-05-01 03:00:34] GRIDLIB(): DeleteAccount: uname  => alabroo
+[2012-05-01 03:00:34] GRIDLIB(): DeleteAccount: actype => f
+[2012-05-01 03:00:34] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2012-05-01 03:00:34] homedirs(): _remove_homedir: uname   => alabroo
+[2012-05-01 03:00:34] homedirs(): _remove_homedir: actype  => f
+[2012-05-01 03:00:34] homedirs(): _remove_homedir: homedir => /facvol/alabroo
+[2012-05-01 03:00:35] GRIDLIB(): DeleteAccount: Removed homedir for alabroo
+[2012-05-02 14:05:02] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-05-02 14:05:02] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-05-02 14:05:02] GRIDLIB(): InitAccount: uname  => bconver0
+[2012-05-02 14:05:02] GRIDLIB(): InitAccount: uid    => 61841
+[2012-05-02 14:05:02] GRIDLIB(): InitAccount: actype => f
+[2012-05-02 14:05:02] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-05-02 14:05:02] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-05-02 14:05:02] homedirs(): _make_homedir: homedir  => /facvol/bconver0
+[2012-05-02 14:05:02] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-05-02 14:05:02] homedirs(): _make_homedir:      gid => 45
+[2012-05-02 14:05:02] homedirs(): _make_homedir: Attempting to create directory: /facvol/bconver0
+[2012-05-02 14:05:02] homedirs(): _make_homedir: Created home directory: /facvol/bconver0
+[2012-05-02 14:05:02] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/bconver0
+[2012-05-02 14:05:02] homedirs(): _make_homedir: /facvol/bconver0 ownership changed to 61841:45
+[2012-05-02 14:05:02] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/bconver0
+[2012-05-02 14:05:02] homedirs(): _make_homedir: Set permissions on /facvol/bconver0/.cshrc
+[2012-05-02 14:05:02] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/bconver0
+[2012-05-02 14:05:02] homedirs(): _make_homedir: Set permissions on /facvol/bconver0/.login
+[2012-05-02 14:05:02] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/bconver0
+[2012-05-02 14:05:02] homedirs(): _make_homedir: Set permissions on /facvol/bconver0/.profile
+[2012-05-02 14:05:02] homedirs(): _make_homedir: returning with value: 1
+[2012-05-02 14:05:02] GRIDLIB(): InitAccount: Created homedir for bconver0
+[2012-05-21 07:43:37] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-05-21 07:43:37] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-05-21 07:43:37] GRIDLIB(): InitAccount: uname  => mhendri3
+[2012-05-21 07:43:37] GRIDLIB(): InitAccount: uid    => 61842
+[2012-05-21 07:43:37] GRIDLIB(): InitAccount: actype => f
+[2012-05-21 07:43:37] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-05-21 07:43:37] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-05-21 07:43:37] homedirs(): _make_homedir: homedir  => /facvol/mhendri3
+[2012-05-21 07:43:37] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-05-21 07:43:37] homedirs(): _make_homedir:      gid => 45
+[2012-05-21 07:43:37] homedirs(): _make_homedir: Attempting to create directory: /facvol/mhendri3
+[2012-05-21 07:43:37] homedirs(): _make_homedir: Created home directory: /facvol/mhendri3
+[2012-05-21 07:43:37] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/mhendri3
+[2012-05-21 07:43:37] homedirs(): _make_homedir: /facvol/mhendri3 ownership changed to 61842:45
+[2012-05-21 07:43:37] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/mhendri3
+[2012-05-21 07:43:37] homedirs(): _make_homedir: Set permissions on /facvol/mhendri3/.cshrc
+[2012-05-21 07:43:37] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/mhendri3
+[2012-05-21 07:43:37] homedirs(): _make_homedir: Set permissions on /facvol/mhendri3/.login
+[2012-05-21 07:43:37] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/mhendri3
+[2012-05-21 07:43:37] homedirs(): _make_homedir: Set permissions on /facvol/mhendri3/.profile
+[2012-05-21 07:43:37] homedirs(): _make_homedir: returning with value: 1
+[2012-05-21 07:43:37] GRIDLIB(): InitAccount: Created homedir for mhendri3
+[2012-05-23 10:26:11] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-05-23 10:26:12] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-05-23 10:26:12] GRIDLIB(): InitAccount: uname  => msoliman
+[2012-05-23 10:26:12] GRIDLIB(): InitAccount: uid    => 61843
+[2012-05-23 10:26:12] GRIDLIB(): InitAccount: actype => f
+[2012-05-23 10:26:12] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-05-23 10:26:12] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-05-23 10:26:12] homedirs(): _make_homedir: homedir  => /facvol/msoliman
+[2012-05-23 10:26:12] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-05-23 10:26:12] homedirs(): _make_homedir:      gid => 45
+[2012-05-23 10:26:12] homedirs(): _make_homedir: Attempting to create directory: /facvol/msoliman
+[2012-05-23 10:26:12] homedirs(): _make_homedir: Created home directory: /facvol/msoliman
+[2012-05-23 10:26:12] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/msoliman
+[2012-05-23 10:26:12] homedirs(): _make_homedir: /facvol/msoliman ownership changed to 61843:45
+[2012-05-23 10:26:12] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/msoliman
+[2012-05-23 10:26:12] homedirs(): _make_homedir: Set permissions on /facvol/msoliman/.cshrc
+[2012-05-23 10:26:12] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/msoliman
+[2012-05-23 10:26:12] homedirs(): _make_homedir: Set permissions on /facvol/msoliman/.login
+[2012-05-23 10:26:12] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/msoliman
+[2012-05-23 10:26:12] homedirs(): _make_homedir: Set permissions on /facvol/msoliman/.profile
+[2012-05-23 10:26:12] homedirs(): _make_homedir: returning with value: 1
+[2012-05-23 10:26:12] GRIDLIB(): InitAccount: Created homedir for msoliman
+[2012-06-19 10:22:56] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-06-19 10:22:56] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-06-19 10:22:56] GRIDLIB(): InitAccount: uname  => bgordon2
+[2012-06-19 10:22:56] GRIDLIB(): InitAccount: uid    => 61844
+[2012-06-19 10:22:56] GRIDLIB(): InitAccount: actype => f
+[2012-06-19 10:22:56] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-06-19 10:22:56] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-06-19 10:22:56] homedirs(): _make_homedir: homedir  => /facvol/bgordon2
+[2012-06-19 10:22:56] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-06-19 10:22:56] homedirs(): _make_homedir:      gid => 45
+[2012-06-19 10:22:56] homedirs(): _make_homedir: Attempting to create directory: /facvol/bgordon2
+[2012-06-19 10:22:56] homedirs(): _make_homedir: Created home directory: /facvol/bgordon2
+[2012-06-19 10:22:56] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/bgordon2
+[2012-06-19 10:22:56] homedirs(): _make_homedir: /facvol/bgordon2 ownership changed to 61844:45
+[2012-06-19 10:22:56] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/bgordon2
+[2012-06-19 10:22:56] homedirs(): _make_homedir: Set permissions on /facvol/bgordon2/.cshrc
+[2012-06-19 10:22:56] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/bgordon2
+[2012-06-19 10:22:56] homedirs(): _make_homedir: Set permissions on /facvol/bgordon2/.login
+[2012-06-19 10:22:56] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/bgordon2
+[2012-06-19 10:22:56] homedirs(): _make_homedir: Set permissions on /facvol/bgordon2/.profile
+[2012-06-19 10:22:56] homedirs(): _make_homedir: returning with value: 1
+[2012-06-19 10:22:56] GRIDLIB(): InitAccount: Created homedir for bgordon2
+[2012-07-02 15:34:59] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-07-02 15:34:59] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-07-02 15:34:59] GRIDLIB(): InitAccount: uname  => bata0
+[2012-07-02 15:34:59] GRIDLIB(): InitAccount: uid    => 61845
+[2012-07-02 15:34:59] GRIDLIB(): InitAccount: actype => f
+[2012-07-02 15:34:59] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-07-02 15:34:59] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-07-02 15:34:59] homedirs(): _make_homedir: homedir  => /facvol/bata0
+[2012-07-02 15:34:59] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-07-02 15:34:59] homedirs(): _make_homedir:      gid => 45
+[2012-07-02 15:34:59] homedirs(): _make_homedir: Attempting to create directory: /facvol/bata0
+[2012-07-02 15:34:59] homedirs(): _make_homedir: Created home directory: /facvol/bata0
+[2012-07-02 15:34:59] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/bata0
+[2012-07-02 15:34:59] homedirs(): _make_homedir: /facvol/bata0 ownership changed to 61845:45
+[2012-07-02 15:34:59] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/bata0
+[2012-07-02 15:34:59] homedirs(): _make_homedir: Set permissions on /facvol/bata0/.cshrc
+[2012-07-02 15:34:59] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/bata0
+[2012-07-02 15:34:59] homedirs(): _make_homedir: Set permissions on /facvol/bata0/.login
+[2012-07-02 15:34:59] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/bata0
+[2012-07-02 15:34:59] homedirs(): _make_homedir: Set permissions on /facvol/bata0/.profile
+[2012-07-02 15:34:59] homedirs(): _make_homedir: returning with value: 1
+[2012-07-02 15:34:59] GRIDLIB(): InitAccount: Created homedir for bata0
+[2012-07-31 03:01:44] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2012-07-31 03:01:44] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2012-07-31 03:01:44] GRIDLIB(): DeleteAccount: uname  => pzhang0
+[2012-07-31 03:01:44] GRIDLIB(): DeleteAccount: actype => p
+[2012-07-31 03:01:44] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2012-07-31 03:01:44] homedirs(): _remove_homedir: uname   => pzhang0
+[2012-07-31 03:01:44] homedirs(): _remove_homedir: actype  => p
+[2012-07-31 03:01:44] homedirs(): _remove_homedir: homedir => /phdvol/pzhang0
+[2012-07-31 03:01:44] GRIDLIB(): DeleteAccount: Removed homedir for pzhang0
+[2012-08-06 17:07:38] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-08-06 17:07:38] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-08-06 17:07:38] GRIDLIB(): InitAccount: uname  => ckrohn0
+[2012-08-06 17:07:38] GRIDLIB(): InitAccount: uid    => 61846
+[2012-08-06 17:07:38] GRIDLIB(): InitAccount: actype => f
+[2012-08-06 17:07:38] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-08-06 17:07:38] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-08-06 17:07:38] homedirs(): _make_homedir: homedir  => /facvol/ckrohn0
+[2012-08-06 17:07:38] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-08-06 17:07:38] homedirs(): _make_homedir:      gid => 45
+[2012-08-06 17:07:38] homedirs(): _make_homedir: Attempting to create directory: /facvol/ckrohn0
+[2012-08-06 17:07:38] homedirs(): _make_homedir: Created home directory: /facvol/ckrohn0
+[2012-08-06 17:07:38] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/ckrohn0
+[2012-08-06 17:07:38] homedirs(): _make_homedir: /facvol/ckrohn0 ownership changed to 61846:45
+[2012-08-06 17:07:38] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/ckrohn0
+[2012-08-06 17:07:38] homedirs(): _make_homedir: Set permissions on /facvol/ckrohn0/.cshrc
+[2012-08-06 17:07:38] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/ckrohn0
+[2012-08-06 17:07:38] homedirs(): _make_homedir: Set permissions on /facvol/ckrohn0/.login
+[2012-08-06 17:07:38] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/ckrohn0
+[2012-08-06 17:07:38] homedirs(): _make_homedir: Set permissions on /facvol/ckrohn0/.profile
+[2012-08-06 17:07:38] homedirs(): _make_homedir: returning with value: 1
+[2012-08-06 17:07:38] GRIDLIB(): InitAccount: Created homedir for ckrohn0
+[2012-08-10 03:02:12] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2012-08-10 03:02:12] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2012-08-10 03:02:12] GRIDLIB(): DeleteAccount: uname  => hjang
+[2012-08-10 03:02:12] GRIDLIB(): DeleteAccount: actype => p
+[2012-08-10 03:02:12] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2012-08-10 03:02:12] homedirs(): _remove_homedir: uname   => hjang
+[2012-08-10 03:02:12] homedirs(): _remove_homedir: actype  => p
+[2012-08-10 03:02:12] homedirs(): _remove_homedir: homedir => /phdvol/hjang
+[2012-08-10 03:02:12] GRIDLIB(): DeleteAccount: Removed homedir for hjang
+[2012-09-05 08:37:28] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-09-05 08:37:28] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-09-05 08:37:28] GRIDLIB(): InitAccount: uname  => rgrossma
+[2012-09-05 08:37:28] GRIDLIB(): InitAccount: uid    => 61847
+[2012-09-05 08:37:28] GRIDLIB(): InitAccount: actype => f
+[2012-09-05 08:37:28] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-09-05 08:37:28] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-09-05 08:37:28] homedirs(): _make_homedir: homedir  => /facvol/rgrossma
+[2012-09-05 08:37:28] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-09-05 08:37:28] homedirs(): _make_homedir:      gid => 45
+[2012-09-05 08:37:28] homedirs(): _make_homedir: Attempting to create directory: /facvol/rgrossma
+[2012-09-05 08:37:28] homedirs(): _make_homedir: Created home directory: /facvol/rgrossma
+[2012-09-05 08:37:28] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/rgrossma
+[2012-09-05 08:37:28] homedirs(): _make_homedir: /facvol/rgrossma ownership changed to 61847:45
+[2012-09-05 08:37:28] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/rgrossma
+[2012-09-05 08:37:28] homedirs(): _make_homedir: Set permissions on /facvol/rgrossma/.cshrc
+[2012-09-05 08:37:28] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/rgrossma
+[2012-09-05 08:37:28] homedirs(): _make_homedir: Set permissions on /facvol/rgrossma/.login
+[2012-09-05 08:37:28] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/rgrossma
+[2012-09-05 08:37:28] homedirs(): _make_homedir: Set permissions on /facvol/rgrossma/.profile
+[2012-09-05 08:37:28] homedirs(): _make_homedir: returning with value: 1
+[2012-09-05 08:37:28] GRIDLIB(): InitAccount: Created homedir for rgrossma
+[2012-09-10 03:00:23] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2012-09-10 03:00:23] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2012-09-10 03:00:23] GRIDLIB(): DeleteAccount: uname  => lpaolell
+[2012-09-10 03:00:23] GRIDLIB(): DeleteAccount: actype => p
+[2012-09-10 03:00:23] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2012-09-10 03:00:23] homedirs(): _remove_homedir: uname   => lpaolell
+[2012-09-10 03:00:23] homedirs(): _remove_homedir: actype  => p
+[2012-09-10 03:00:23] homedirs(): _remove_homedir: homedir => /phdvol/lpaolell
+[2012-09-10 03:00:23] GRIDLIB(): DeleteAccount: Removed homedir for lpaolell
+[2012-09-11 03:00:37] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2012-09-11 03:00:37] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2012-09-11 03:00:37] GRIDLIB(): DeleteAccount: uname  => rdiamond
+[2012-09-11 03:00:37] GRIDLIB(): DeleteAccount: actype => p
+[2012-09-11 03:00:37] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2012-09-11 03:00:37] homedirs(): _remove_homedir: uname   => rdiamond
+[2012-09-11 03:00:37] homedirs(): _remove_homedir: actype  => p
+[2012-09-11 03:00:37] homedirs(): _remove_homedir: homedir => /phdvol/rdiamond
+[2012-09-11 03:00:37] GRIDLIB(): DeleteAccount: Removed homedir for rdiamond
+[2012-09-11 03:00:38] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2012-09-11 03:00:38] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2012-09-11 03:00:38] GRIDLIB(): DeleteAccount: uname  => cchen12
+[2012-09-11 03:00:38] GRIDLIB(): DeleteAccount: actype => p
+[2012-09-11 03:00:38] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2012-09-11 03:00:38] homedirs(): _remove_homedir: uname   => cchen12
+[2012-09-11 03:00:38] homedirs(): _remove_homedir: actype  => p
+[2012-09-11 03:00:38] homedirs(): _remove_homedir: homedir => /phdvol/cchen12
+[2012-09-11 03:00:38] GRIDLIB(): DeleteAccount: Removed homedir for cchen12
+[2012-09-11 03:00:38] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2012-09-11 03:00:38] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2012-09-11 03:00:38] GRIDLIB(): DeleteAccount: uname  => xpeng
+[2012-09-11 03:00:38] GRIDLIB(): DeleteAccount: actype => p
+[2012-09-11 03:00:38] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2012-09-11 03:00:38] homedirs(): _remove_homedir: uname   => xpeng
+[2012-09-11 03:00:38] homedirs(): _remove_homedir: actype  => p
+[2012-09-11 03:00:38] homedirs(): _remove_homedir: homedir => /phdvol/xpeng
+[2012-09-11 03:00:38] GRIDLIB(): DeleteAccount: Removed homedir for xpeng
+[2012-09-11 03:00:39] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2012-09-11 03:00:39] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2012-09-11 03:00:39] GRIDLIB(): DeleteAccount: uname  => wwillif0
+[2012-09-11 03:00:39] GRIDLIB(): DeleteAccount: actype => p
+[2012-09-11 03:00:39] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2012-09-11 03:00:39] homedirs(): _remove_homedir: uname   => wwillif0
+[2012-09-11 03:00:39] homedirs(): _remove_homedir: actype  => p
+[2012-09-11 03:00:39] homedirs(): _remove_homedir: homedir => /phdvol/wwillif0
+[2012-09-11 03:00:39] GRIDLIB(): DeleteAccount: Removed homedir for wwillif0
+[2012-09-17 13:36:31] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-09-17 13:36:31] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-09-17 13:36:31] GRIDLIB(): InitAccount: uname  => jbischo0
+[2012-09-17 13:36:31] GRIDLIB(): InitAccount: uid    => 61848
+[2012-09-17 13:36:31] GRIDLIB(): InitAccount: actype => f
+[2012-09-17 13:36:31] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-09-17 13:36:31] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-09-17 13:36:31] homedirs(): _make_homedir: homedir  => /facvol/jbischo0
+[2012-09-17 13:36:31] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-09-17 13:36:31] homedirs(): _make_homedir:      gid => 45
+[2012-09-17 13:36:31] homedirs(): _make_homedir: Attempting to create directory: /facvol/jbischo0
+[2012-09-17 13:36:31] homedirs(): _make_homedir: Created home directory: /facvol/jbischo0
+[2012-09-17 13:36:31] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/jbischo0
+[2012-09-17 13:36:31] homedirs(): _make_homedir: /facvol/jbischo0 ownership changed to 61848:45
+[2012-09-17 13:36:31] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/jbischo0
+[2012-09-17 13:36:31] homedirs(): _make_homedir: Set permissions on /facvol/jbischo0/.cshrc
+[2012-09-17 13:36:31] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/jbischo0
+[2012-09-17 13:36:31] homedirs(): _make_homedir: Set permissions on /facvol/jbischo0/.login
+[2012-09-17 13:36:31] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/jbischo0
+[2012-09-17 13:36:31] homedirs(): _make_homedir: Set permissions on /facvol/jbischo0/.profile
+[2012-09-17 13:36:31] homedirs(): _make_homedir: returning with value: 1
+[2012-09-17 13:36:31] GRIDLIB(): InitAccount: Created homedir for jbischo0
+[2012-09-18 16:37:23] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-09-18 16:37:23] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-09-18 16:37:23] GRIDLIB(): InitAccount: uname  => jlee62
+[2012-09-18 16:37:23] GRIDLIB(): InitAccount: uid    => 61849
+[2012-09-18 16:37:23] GRIDLIB(): InitAccount: actype => f
+[2012-09-18 16:37:23] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-09-18 16:37:23] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-09-18 16:37:23] homedirs(): _make_homedir: homedir  => /facvol/jlee62
+[2012-09-18 16:37:23] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-09-18 16:37:23] homedirs(): _make_homedir:      gid => 45
+[2012-09-18 16:37:23] homedirs(): _make_homedir: Attempting to create directory: /facvol/jlee62
+[2012-09-18 16:37:23] homedirs(): _make_homedir: Created home directory: /facvol/jlee62
+[2012-09-18 16:37:23] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/jlee62
+[2012-09-18 16:37:24] homedirs(): _make_homedir: /facvol/jlee62 ownership changed to 61849:45
+[2012-09-18 16:37:24] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/jlee62
+[2012-09-18 16:37:24] homedirs(): _make_homedir: Set permissions on /facvol/jlee62/.cshrc
+[2012-09-18 16:37:24] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/jlee62
+[2012-09-18 16:37:24] homedirs(): _make_homedir: Set permissions on /facvol/jlee62/.login
+[2012-09-18 16:37:24] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/jlee62
+[2012-09-18 16:37:24] homedirs(): _make_homedir: Set permissions on /facvol/jlee62/.profile
+[2012-09-18 16:37:24] homedirs(): _make_homedir: returning with value: 1
+[2012-09-18 16:37:24] GRIDLIB(): InitAccount: Created homedir for jlee62
+[2012-10-16 15:40:00] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-10-16 15:40:00] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-10-16 15:40:00] GRIDLIB(): InitAccount: uname  => rreagans
+[2012-10-16 15:40:00] GRIDLIB(): InitAccount: uid    => 61850
+[2012-10-16 15:40:00] GRIDLIB(): InitAccount: actype => f
+[2012-10-16 15:40:00] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-10-16 15:40:00] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-10-16 15:40:00] homedirs(): _make_homedir: homedir  => /facvol/rreagans
+[2012-10-16 15:40:00] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-10-16 15:40:00] homedirs(): _make_homedir:      gid => 45
+[2012-10-16 15:40:00] homedirs(): _make_homedir: Attempting to create directory: /facvol/rreagans
+[2012-10-16 15:40:00] homedirs(): _make_homedir: Created home directory: /facvol/rreagans
+[2012-10-16 15:40:00] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/rreagans
+[2012-10-16 15:40:00] homedirs(): _make_homedir: /facvol/rreagans ownership changed to 61850:45
+[2012-10-16 15:40:00] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/rreagans
+[2012-10-16 15:40:00] homedirs(): _make_homedir: Set permissions on /facvol/rreagans/.cshrc
+[2012-10-16 15:40:00] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/rreagans
+[2012-10-16 15:40:00] homedirs(): _make_homedir: Set permissions on /facvol/rreagans/.login
+[2012-10-16 15:40:00] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/rreagans
+[2012-10-16 15:40:00] homedirs(): _make_homedir: Set permissions on /facvol/rreagans/.profile
+[2012-10-16 15:40:00] homedirs(): _make_homedir: returning with value: 1
+[2012-10-16 15:40:00] GRIDLIB(): InitAccount: Created homedir for rreagans
+[2012-10-23 03:00:32] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2012-10-23 03:00:32] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2012-10-23 03:00:32] GRIDLIB(): DeleteAccount: uname  => merkens
+[2012-10-23 03:00:32] GRIDLIB(): DeleteAccount: actype => p
+[2012-10-23 03:00:32] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2012-10-23 03:00:32] homedirs(): _remove_homedir: uname   => merkens
+[2012-10-23 03:00:32] homedirs(): _remove_homedir: actype  => p
+[2012-10-23 03:00:32] homedirs(): _remove_homedir: homedir => /phdvol/merkens
+[2012-10-23 03:00:32] GRIDLIB(): DeleteAccount: Removed homedir for merkens
+[2012-11-27 03:00:06] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2012-11-27 03:00:06] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2012-11-27 03:00:06] GRIDLIB(): DeleteAccount: uname  => hwang1
+[2012-11-27 03:00:06] GRIDLIB(): DeleteAccount: actype => p
+[2012-11-27 03:00:06] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2012-11-27 03:00:06] homedirs(): _remove_homedir: uname   => hwang1
+[2012-11-27 03:00:06] homedirs(): _remove_homedir: actype  => p
+[2012-11-27 03:00:06] homedirs(): _remove_homedir: homedir => /phdvol/hwang1
+[2012-11-27 03:00:06] GRIDLIB(): DeleteAccount: Removed homedir for hwang1
+[2012-12-18 14:18:20] GRIDLIB(): InitAccount: entering InitAccount()
+[2012-12-18 14:18:20] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2012-12-18 14:18:20] GRIDLIB(): InitAccount: uname  => ddobrev
+[2012-12-18 14:18:20] GRIDLIB(): InitAccount: uid    => 61851
+[2012-12-18 14:18:20] GRIDLIB(): InitAccount: actype => f
+[2012-12-18 14:18:20] GRIDLIB(): InitAccount: calling _make_homedir()
+[2012-12-18 14:18:20] homedirs(): _make_homedir: entering _make_homedirs()
+[2012-12-18 14:18:20] homedirs(): _make_homedir: homedir  => /facvol/ddobrev
+[2012-12-18 14:18:20] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2012-12-18 14:18:20] homedirs(): _make_homedir:      gid => 45
+[2012-12-18 14:18:20] homedirs(): _make_homedir: Attempting to create directory: /facvol/ddobrev
+[2012-12-18 14:18:20] homedirs(): _make_homedir: Created home directory: /facvol/ddobrev
+[2012-12-18 14:18:20] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/ddobrev
+[2012-12-18 14:18:20] homedirs(): _make_homedir: /facvol/ddobrev ownership changed to 61851:45
+[2012-12-18 14:18:20] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/ddobrev
+[2012-12-18 14:18:20] homedirs(): _make_homedir: Set permissions on /facvol/ddobrev/.cshrc
+[2012-12-18 14:18:20] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/ddobrev
+[2012-12-18 14:18:20] homedirs(): _make_homedir: Set permissions on /facvol/ddobrev/.login
+[2012-12-18 14:18:20] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/ddobrev
+[2012-12-18 14:18:20] homedirs(): _make_homedir: Set permissions on /facvol/ddobrev/.profile
+[2012-12-18 14:18:20] homedirs(): _make_homedir: returning with value: 1
+[2012-12-18 14:18:20] GRIDLIB(): InitAccount: Created homedir for ddobrev
+[2013-01-07 16:27:05] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-01-07 16:27:05] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-01-07 16:27:05] GRIDLIB(): InitAccount: uname  => jmackay0
+[2013-01-07 16:27:05] GRIDLIB(): InitAccount: uid    => 61852
+[2013-01-07 16:27:05] GRIDLIB(): InitAccount: actype => f
+[2013-01-07 16:27:05] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-01-07 16:27:05] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-01-07 16:27:05] homedirs(): _make_homedir: homedir  => /facvol/jmackay0
+[2013-01-07 16:27:05] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-01-07 16:27:05] homedirs(): _make_homedir:      gid => 45
+[2013-01-07 16:27:05] homedirs(): _make_homedir: Attempting to create directory: /facvol/jmackay0
+[2013-01-07 16:27:05] homedirs(): _make_homedir: Created home directory: /facvol/jmackay0
+[2013-01-07 16:27:05] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/jmackay0
+[2013-01-07 16:27:05] homedirs(): _make_homedir: /facvol/jmackay0 ownership changed to 61852:45
+[2013-01-07 16:27:05] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/jmackay0
+[2013-01-07 16:27:05] homedirs(): _make_homedir: Set permissions on /facvol/jmackay0/.cshrc
+[2013-01-07 16:27:05] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/jmackay0
+[2013-01-07 16:27:05] homedirs(): _make_homedir: Set permissions on /facvol/jmackay0/.login
+[2013-01-07 16:27:05] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/jmackay0
+[2013-01-07 16:27:05] homedirs(): _make_homedir: Set permissions on /facvol/jmackay0/.profile
+[2013-01-07 16:27:05] homedirs(): _make_homedir: returning with value: 1
+[2013-01-07 16:27:05] GRIDLIB(): InitAccount: Created homedir for jmackay0
+[2013-01-15 11:03:15] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-01-15 11:03:15] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-01-15 11:03:15] GRIDLIB(): InitAccount: uname  => mwang2
+[2013-01-15 11:03:15] GRIDLIB(): InitAccount: uid    => 61853
+[2013-01-15 11:03:15] GRIDLIB(): InitAccount: actype => f
+[2013-01-15 11:03:15] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-01-15 11:03:15] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-01-15 11:03:15] homedirs(): _make_homedir: homedir  => /facvol/mwang2
+[2013-01-15 11:03:15] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-01-15 11:03:15] homedirs(): _make_homedir:      gid => 45
+[2013-01-15 11:03:15] homedirs(): _make_homedir: Attempting to create directory: /facvol/mwang2
+[2013-01-15 11:03:15] homedirs(): _make_homedir: Created home directory: /facvol/mwang2
+[2013-01-15 11:03:15] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/mwang2
+[2013-01-15 11:03:15] homedirs(): _make_homedir: /facvol/mwang2 ownership changed to 61853:45
+[2013-01-15 11:03:15] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/mwang2
+[2013-01-15 11:03:15] homedirs(): _make_homedir: Set permissions on /facvol/mwang2/.cshrc
+[2013-01-15 11:03:16] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/mwang2
+[2013-01-15 11:03:16] homedirs(): _make_homedir: Set permissions on /facvol/mwang2/.login
+[2013-01-15 11:03:16] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/mwang2
+[2013-01-15 11:03:16] homedirs(): _make_homedir: Set permissions on /facvol/mwang2/.profile
+[2013-01-15 11:03:16] homedirs(): _make_homedir: returning with value: 1
+[2013-01-15 11:03:16] GRIDLIB(): InitAccount: Created homedir for mwang2
+[2013-02-01 13:33:10] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-02-01 13:33:10] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-02-01 13:33:10] GRIDLIB(): InitAccount: uname  => asussman
+[2013-02-01 13:33:10] GRIDLIB(): InitAccount: uid    => 61854
+[2013-02-01 13:33:10] GRIDLIB(): InitAccount: actype => f
+[2013-02-01 13:33:10] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-02-01 13:33:10] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-02-01 13:33:10] homedirs(): _make_homedir: homedir  => /facvol/asussman
+[2013-02-01 13:33:10] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-02-01 13:33:10] homedirs(): _make_homedir:      gid => 45
+[2013-02-01 13:33:10] homedirs(): _make_homedir: Attempting to create directory: /facvol/asussman
+[2013-02-01 13:33:10] homedirs(): _make_homedir: Created home directory: /facvol/asussman
+[2013-02-01 13:33:10] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/asussman
+[2013-02-01 13:33:10] homedirs(): _make_homedir: /facvol/asussman ownership changed to 61854:45
+[2013-02-01 13:33:10] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/asussman
+[2013-02-01 13:33:10] homedirs(): _make_homedir: Set permissions on /facvol/asussman/.cshrc
+[2013-02-01 13:33:10] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/asussman
+[2013-02-01 13:33:10] homedirs(): _make_homedir: Set permissions on /facvol/asussman/.login
+[2013-02-01 13:33:10] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/asussman
+[2013-02-01 13:33:10] homedirs(): _make_homedir: Set permissions on /facvol/asussman/.profile
+[2013-02-01 13:33:10] homedirs(): _make_homedir: returning with value: 1
+[2013-02-01 13:33:10] GRIDLIB(): InitAccount: Created homedir for asussman
+[2013-02-01 14:10:18] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-02-01 14:10:18] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-02-01 14:10:18] GRIDLIB(): InitAccount: uname  => dbartel0
+[2013-02-01 14:10:18] GRIDLIB(): InitAccount: uid    => 61855
+[2013-02-01 14:10:18] GRIDLIB(): InitAccount: actype => f
+[2013-02-01 14:10:18] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-02-01 14:10:18] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-02-01 14:10:18] homedirs(): _make_homedir: homedir  => /facvol/dbartel0
+[2013-02-01 14:10:18] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-02-01 14:10:18] homedirs(): _make_homedir:      gid => 45
+[2013-02-01 14:10:18] homedirs(): _make_homedir: Attempting to create directory: /facvol/dbartel0
+[2013-02-01 14:10:18] homedirs(): _make_homedir: Created home directory: /facvol/dbartel0
+[2013-02-01 14:10:18] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/dbartel0
+[2013-02-01 14:10:18] homedirs(): _make_homedir: /facvol/dbartel0 ownership changed to 61855:45
+[2013-02-01 14:10:18] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/dbartel0
+[2013-02-01 14:10:18] homedirs(): _make_homedir: Set permissions on /facvol/dbartel0/.cshrc
+[2013-02-01 14:10:18] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/dbartel0
+[2013-02-01 14:10:18] homedirs(): _make_homedir: Set permissions on /facvol/dbartel0/.login
+[2013-02-01 14:10:18] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/dbartel0
+[2013-02-01 14:10:18] homedirs(): _make_homedir: Set permissions on /facvol/dbartel0/.profile
+[2013-02-01 14:10:18] homedirs(): _make_homedir: returning with value: 1
+[2013-02-01 14:10:18] GRIDLIB(): InitAccount: Created homedir for dbartel0
+[2013-03-12 10:43:55] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-03-12 10:43:55] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-03-12 10:43:55] GRIDLIB(): InitAccount: uname  => rsiebert
+[2013-03-12 10:43:55] GRIDLIB(): InitAccount: uid    => 20000
+[2013-03-12 10:43:55] GRIDLIB(): InitAccount: actype => f
+[2013-03-12 10:43:55] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-03-12 10:43:55] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-03-12 10:43:55] homedirs(): _make_homedir: homedir  => /facvol/rsiebert
+[2013-03-12 10:43:55] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-03-12 10:43:55] homedirs(): _make_homedir:      gid => 45
+[2013-03-12 10:43:55] homedirs(): _make_homedir: Attempting to create directory: /facvol/rsiebert
+[2013-03-12 10:43:55] homedirs(): _make_homedir: Created home directory: /facvol/rsiebert
+[2013-03-12 10:43:55] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/rsiebert
+[2013-03-12 10:43:55] homedirs(): _make_homedir: /facvol/rsiebert ownership changed to 20000:45
+[2013-03-12 10:43:55] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/rsiebert
+[2013-03-12 10:43:55] homedirs(): _make_homedir: Set permissions on /facvol/rsiebert/.cshrc
+[2013-03-12 10:43:55] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/rsiebert
+[2013-03-12 10:43:55] homedirs(): _make_homedir: Set permissions on /facvol/rsiebert/.login
+[2013-03-12 10:43:55] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/rsiebert
+[2013-03-12 10:43:55] homedirs(): _make_homedir: Set permissions on /facvol/rsiebert/.profile
+[2013-03-12 10:43:55] homedirs(): _make_homedir: returning with value: 1
+[2013-03-12 10:43:55] GRIDLIB(): InitAccount: Created homedir for rsiebert
+[2013-03-16 03:00:14] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-03-16 03:00:14] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-03-16 03:00:14] GRIDLIB(): DeleteAccount: uname  => fzheng0
+[2013-03-16 03:00:14] GRIDLIB(): DeleteAccount: actype => p
+[2013-03-16 03:00:14] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-03-16 03:00:14] homedirs(): _remove_homedir: uname   => fzheng0
+[2013-03-16 03:00:14] homedirs(): _remove_homedir: actype  => p
+[2013-03-16 03:00:14] homedirs(): _remove_homedir: homedir => /phdvol/fzheng0
+[2013-03-16 03:00:14] GRIDLIB(): DeleteAccount: Removed homedir for fzheng0
+[2013-04-05 14:16:15] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-04-05 14:16:15] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-04-05 14:16:15] GRIDLIB(): InitAccount: uname  => gxavier
+[2013-04-05 14:16:15] GRIDLIB(): InitAccount: uid    => 20001
+[2013-04-05 14:16:15] GRIDLIB(): InitAccount: actype => f
+[2013-04-05 14:16:15] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-04-05 14:16:15] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-04-05 14:16:15] homedirs(): _make_homedir: homedir  => /facvol/gxavier
+[2013-04-05 14:16:15] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-04-05 14:16:15] homedirs(): _make_homedir:      gid => 45
+[2013-04-05 14:16:15] homedirs(): _make_homedir: Attempting to create directory: /facvol/gxavier
+[2013-04-05 14:16:15] homedirs(): _make_homedir: Created home directory: /facvol/gxavier
+[2013-04-05 14:16:15] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/gxavier
+[2013-04-05 14:16:15] homedirs(): _make_homedir: /facvol/gxavier ownership changed to 20001:45
+[2013-04-05 14:16:15] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/gxavier
+[2013-04-05 14:16:15] homedirs(): _make_homedir: Set permissions on /facvol/gxavier/.cshrc
+[2013-04-05 14:16:15] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/gxavier
+[2013-04-05 14:16:15] homedirs(): _make_homedir: Set permissions on /facvol/gxavier/.login
+[2013-04-05 14:16:15] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/gxavier
+[2013-04-05 14:16:15] homedirs(): _make_homedir: Set permissions on /facvol/gxavier/.profile
+[2013-04-05 14:16:15] homedirs(): _make_homedir: returning with value: 1
+[2013-04-05 14:16:15] GRIDLIB(): InitAccount: Created homedir for gxavier
+[2013-04-05 14:17:56] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-04-05 14:17:56] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-04-05 14:17:56] GRIDLIB(): DeleteAccount: uname  => gxavier
+[2013-04-05 14:17:56] GRIDLIB(): DeleteAccount: actype => f
+[2013-04-05 14:17:56] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-04-05 14:17:56] homedirs(): _remove_homedir: uname   => gxavier
+[2013-04-05 14:17:56] homedirs(): _remove_homedir: actype  => f
+[2013-04-05 14:17:56] homedirs(): _remove_homedir: homedir => /facvol/gxavier
+[2013-04-05 14:17:56] GRIDLIB(): DeleteAccount: Removed homedir for gxavier
+[2013-04-05 14:24:01] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-04-05 14:24:01] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-04-05 14:24:01] GRIDLIB(): InitAccount: uname  => xgabaix
+[2013-04-05 14:24:01] GRIDLIB(): InitAccount: uid    => 20002
+[2013-04-05 14:24:01] GRIDLIB(): InitAccount: actype => f
+[2013-04-05 14:24:01] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-04-05 14:24:01] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-04-05 14:24:01] homedirs(): _make_homedir: homedir  => /facvol/xgabaix
+[2013-04-05 14:24:01] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-04-05 14:24:01] homedirs(): _make_homedir:      gid => 45
+[2013-04-05 14:24:01] homedirs(): _make_homedir: Attempting to create directory: /facvol/xgabaix
+[2013-04-05 14:24:01] homedirs(): _make_homedir: Created home directory: /facvol/xgabaix
+[2013-04-05 14:24:01] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/xgabaix
+[2013-04-05 14:24:01] homedirs(): _make_homedir: /facvol/xgabaix ownership changed to 20002:45
+[2013-04-05 14:24:01] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/xgabaix
+[2013-04-05 14:24:01] homedirs(): _make_homedir: Set permissions on /facvol/xgabaix/.cshrc
+[2013-04-05 14:24:01] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/xgabaix
+[2013-04-05 14:24:01] homedirs(): _make_homedir: Set permissions on /facvol/xgabaix/.login
+[2013-04-05 14:24:01] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/xgabaix
+[2013-04-05 14:24:01] homedirs(): _make_homedir: Set permissions on /facvol/xgabaix/.profile
+[2013-04-05 14:24:01] homedirs(): _make_homedir: returning with value: 1
+[2013-04-05 14:24:01] GRIDLIB(): InitAccount: Created homedir for xgabaix
+[2013-04-11 10:43:04] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-04-11 10:43:04] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-04-11 10:43:04] GRIDLIB(): InitAccount: uname  => rbushman
+[2013-04-11 10:43:04] GRIDLIB(): InitAccount: uid    => 20003
+[2013-04-11 10:43:04] GRIDLIB(): InitAccount: actype => f
+[2013-04-11 10:43:04] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-04-11 10:43:04] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-04-11 10:43:04] homedirs(): _make_homedir: homedir  => /facvol/rbushman
+[2013-04-11 10:43:04] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-04-11 10:43:04] homedirs(): _make_homedir:      gid => 45
+[2013-04-11 10:43:04] homedirs(): _make_homedir: Attempting to create directory: /facvol/rbushman
+[2013-04-11 10:43:04] homedirs(): _make_homedir: Created home directory: /facvol/rbushman
+[2013-04-11 10:43:04] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/rbushman
+[2013-04-11 10:43:04] homedirs(): _make_homedir: /facvol/rbushman ownership changed to 20003:45
+[2013-04-11 10:43:05] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/rbushman
+[2013-04-11 10:43:05] homedirs(): _make_homedir: Set permissions on /facvol/rbushman/.cshrc
+[2013-04-11 10:43:05] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/rbushman
+[2013-04-11 10:43:05] homedirs(): _make_homedir: Set permissions on /facvol/rbushman/.login
+[2013-04-11 10:43:05] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/rbushman
+[2013-04-11 10:43:05] homedirs(): _make_homedir: Set permissions on /facvol/rbushman/.profile
+[2013-04-11 10:43:05] homedirs(): _make_homedir: returning with value: 1
+[2013-04-11 10:43:05] GRIDLIB(): InitAccount: Created homedir for rbushman
+[2013-04-16 03:00:16] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-04-16 03:00:16] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-04-16 03:00:16] GRIDLIB(): DeleteAccount: uname  => vdennie
+[2013-04-16 03:00:16] GRIDLIB(): DeleteAccount: actype => p
+[2013-04-16 03:00:16] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-04-16 03:00:16] homedirs(): _remove_homedir: uname   => vdennie
+[2013-04-16 03:00:16] homedirs(): _remove_homedir: actype  => p
+[2013-04-16 03:00:16] homedirs(): _remove_homedir: homedir => /phdvol/vdennie
+[2013-04-16 03:00:16] GRIDLIB(): DeleteAccount: Removed homedir for vdennie
+[2013-04-17 12:29:15] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-04-17 12:29:15] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-04-17 12:29:15] GRIDLIB(): InitAccount: uname  => crider0
+[2013-04-17 12:29:15] GRIDLIB(): InitAccount: uid    => 20004
+[2013-04-17 12:29:15] GRIDLIB(): InitAccount: actype => f
+[2013-04-17 12:29:15] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-04-17 12:29:15] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-04-17 12:29:15] homedirs(): _make_homedir: homedir  => /facvol/crider0
+[2013-04-17 12:29:15] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-04-17 12:29:15] homedirs(): _make_homedir:      gid => 45
+[2013-04-17 12:29:15] homedirs(): _make_homedir: Attempting to create directory: /facvol/crider0
+[2013-04-17 12:29:15] homedirs(): _make_homedir: Created home directory: /facvol/crider0
+[2013-04-17 12:29:15] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/crider0
+[2013-04-17 12:29:15] homedirs(): _make_homedir: /facvol/crider0 ownership changed to 20004:45
+[2013-04-17 12:29:15] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/crider0
+[2013-04-17 12:29:15] homedirs(): _make_homedir: Set permissions on /facvol/crider0/.cshrc
+[2013-04-17 12:29:15] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/crider0
+[2013-04-17 12:29:15] homedirs(): _make_homedir: Set permissions on /facvol/crider0/.login
+[2013-04-17 12:29:15] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/crider0
+[2013-04-17 12:29:15] homedirs(): _make_homedir: Set permissions on /facvol/crider0/.profile
+[2013-04-17 12:29:15] homedirs(): _make_homedir: returning with value: 1
+[2013-04-17 12:29:15] GRIDLIB(): InitAccount: Created homedir for crider0
+[2013-04-19 14:46:44] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-04-19 14:46:44] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-04-19 14:46:44] GRIDLIB(): DeleteAccount: uname  => jbischo0
+[2013-04-19 14:46:44] GRIDLIB(): DeleteAccount: actype => f
+[2013-04-19 14:46:44] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-04-19 14:46:44] homedirs(): _remove_homedir: uname   => jbischo0
+[2013-04-19 14:46:44] homedirs(): _remove_homedir: actype  => f
+[2013-04-19 14:46:44] homedirs(): _remove_homedir: homedir => /facvol/jbischo0
+[2013-04-19 14:46:44] GRIDLIB(): DeleteAccount: Removed homedir for jbischo0
+[2013-04-19 14:58:56] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-04-19 14:58:56] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-04-19 14:58:56] GRIDLIB(): InitAccount: uname  => jbischo0
+[2013-04-19 14:58:56] GRIDLIB(): InitAccount: uid    => 20005
+[2013-04-19 14:58:56] GRIDLIB(): InitAccount: actype => f
+[2013-04-19 14:58:56] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-04-19 14:58:56] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-04-19 14:58:56] homedirs(): _make_homedir: homedir  => /facvol/jbischo0
+[2013-04-19 14:58:56] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-04-19 14:58:56] homedirs(): _make_homedir:      gid => 45
+[2013-04-19 14:58:56] homedirs(): _make_homedir: Attempting to create directory: /facvol/jbischo0
+[2013-04-19 14:58:56] homedirs(): _make_homedir: Created home directory: /facvol/jbischo0
+[2013-04-19 14:58:56] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/jbischo0
+[2013-04-19 14:58:56] homedirs(): _make_homedir: /facvol/jbischo0 ownership changed to 20005:45
+[2013-04-19 14:58:56] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/jbischo0
+[2013-04-19 14:58:56] homedirs(): _make_homedir: Set permissions on /facvol/jbischo0/.cshrc
+[2013-04-19 14:58:56] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/jbischo0
+[2013-04-19 14:58:56] homedirs(): _make_homedir: Set permissions on /facvol/jbischo0/.login
+[2013-04-19 14:58:56] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/jbischo0
+[2013-04-19 14:58:56] homedirs(): _make_homedir: Set permissions on /facvol/jbischo0/.profile
+[2013-04-19 14:58:57] homedirs(): _make_homedir: returning with value: 1
+[2013-04-19 14:58:57] GRIDLIB(): InitAccount: Created homedir for jbischo0
+[2013-04-22 12:20:36] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-04-22 12:20:36] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-04-22 12:20:36] GRIDLIB(): InitAccount: uname  => mkolar
+[2013-04-22 12:20:36] GRIDLIB(): InitAccount: uid    => 20006
+[2013-04-22 12:20:36] GRIDLIB(): InitAccount: actype => f
+[2013-04-22 12:20:36] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-04-22 12:20:36] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-04-22 12:20:36] homedirs(): _make_homedir: homedir  => /facvol/mkolar
+[2013-04-22 12:20:36] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-04-22 12:20:36] homedirs(): _make_homedir:      gid => 45
+[2013-04-22 12:20:36] homedirs(): _make_homedir: Attempting to create directory: /facvol/mkolar
+[2013-04-22 12:20:36] homedirs(): _make_homedir: Created home directory: /facvol/mkolar
+[2013-04-22 12:20:36] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/mkolar
+[2013-04-22 12:20:36] homedirs(): _make_homedir: /facvol/mkolar ownership changed to 20006:45
+[2013-04-22 12:20:36] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/mkolar
+[2013-04-22 12:20:36] homedirs(): _make_homedir: Set permissions on /facvol/mkolar/.cshrc
+[2013-04-22 12:20:36] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/mkolar
+[2013-04-22 12:20:36] homedirs(): _make_homedir: Set permissions on /facvol/mkolar/.login
+[2013-04-22 12:20:36] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/mkolar
+[2013-04-22 12:20:36] homedirs(): _make_homedir: Set permissions on /facvol/mkolar/.profile
+[2013-04-22 12:20:36] homedirs(): _make_homedir: returning with value: 1
+[2013-04-22 12:20:36] GRIDLIB(): InitAccount: Created homedir for mkolar
+[2013-04-22 14:12:12] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-04-22 14:12:12] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-04-22 14:12:12] GRIDLIB(): InitAccount: uname  => mjensen
+[2013-04-22 14:12:12] GRIDLIB(): InitAccount: uid    => 20007
+[2013-04-22 14:12:12] GRIDLIB(): InitAccount: actype => f
+[2013-04-22 14:12:12] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-04-22 14:12:12] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-04-22 14:12:12] homedirs(): _make_homedir: homedir  => /facvol/mjensen
+[2013-04-22 14:12:12] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-04-22 14:12:12] homedirs(): _make_homedir:      gid => 45
+[2013-04-22 14:12:12] homedirs(): _make_homedir: Attempting to create directory: /facvol/mjensen
+[2013-04-22 14:12:12] homedirs(): _make_homedir: Created home directory: /facvol/mjensen
+[2013-04-22 14:12:12] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/mjensen
+[2013-04-22 14:12:12] homedirs(): _make_homedir: /facvol/mjensen ownership changed to 20007:45
+[2013-04-22 14:12:12] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/mjensen
+[2013-04-22 14:12:12] homedirs(): _make_homedir: Set permissions on /facvol/mjensen/.cshrc
+[2013-04-22 14:12:12] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/mjensen
+[2013-04-22 14:12:12] homedirs(): _make_homedir: Set permissions on /facvol/mjensen/.login
+[2013-04-22 14:12:12] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/mjensen
+[2013-04-22 14:12:12] homedirs(): _make_homedir: Set permissions on /facvol/mjensen/.profile
+[2013-04-22 14:12:12] homedirs(): _make_homedir: returning with value: 1
+[2013-04-22 14:12:12] GRIDLIB(): InitAccount: Created homedir for mjensen
+[2013-04-25 10:58:40] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-04-25 10:58:40] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-04-25 10:58:40] GRIDLIB(): DeleteAccount: uname  => bata0
+[2013-04-25 10:58:40] GRIDLIB(): DeleteAccount: actype => f
+[2013-04-25 10:58:40] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-04-25 10:58:40] homedirs(): _remove_homedir: uname   => bata0
+[2013-04-25 10:58:40] homedirs(): _remove_homedir: actype  => f
+[2013-04-25 10:58:40] homedirs(): _remove_homedir: homedir => /facvol/bata0
+[2013-04-25 10:58:41] GRIDLIB(): DeleteAccount: Removed homedir for bata0
+[2013-04-25 11:10:27] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-04-25 11:10:27] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-04-25 11:10:27] GRIDLIB(): InitAccount: uname  => bata0
+[2013-04-25 11:10:27] GRIDLIB(): InitAccount: uid    => 20008
+[2013-04-25 11:10:27] GRIDLIB(): InitAccount: actype => f
+[2013-04-25 11:10:27] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-04-25 11:10:27] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-04-25 11:10:27] homedirs(): _make_homedir: homedir  => /facvol/bata0
+[2013-04-25 11:10:27] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-04-25 11:10:27] homedirs(): _make_homedir:      gid => 45
+[2013-04-25 11:10:27] homedirs(): _make_homedir: Attempting to create directory: /facvol/bata0
+[2013-04-25 11:10:27] homedirs(): _make_homedir: Created home directory: /facvol/bata0
+[2013-04-25 11:10:27] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/bata0
+[2013-04-25 11:10:27] homedirs(): _make_homedir: /facvol/bata0 ownership changed to 20008:45
+[2013-04-25 11:10:27] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/bata0
+[2013-04-25 11:10:27] homedirs(): _make_homedir: Set permissions on /facvol/bata0/.cshrc
+[2013-04-25 11:10:27] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/bata0
+[2013-04-25 11:10:27] homedirs(): _make_homedir: Set permissions on /facvol/bata0/.login
+[2013-04-25 11:10:27] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/bata0
+[2013-04-25 11:10:27] homedirs(): _make_homedir: Set permissions on /facvol/bata0/.profile
+[2013-04-25 11:10:27] homedirs(): _make_homedir: returning with value: 1
+[2013-04-25 11:10:27] GRIDLIB(): InitAccount: Created homedir for bata0
+[2013-05-24 10:23:06] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-05-24 10:23:06] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-05-24 10:23:06] GRIDLIB(): InitAccount: uname  => mgorgulu
+[2013-05-24 10:23:06] GRIDLIB(): InitAccount: uid    => 20009
+[2013-05-24 10:23:06] GRIDLIB(): InitAccount: actype => f
+[2013-05-24 10:23:06] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-05-24 10:23:06] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-05-24 10:23:06] homedirs(): _make_homedir: homedir  => /facvol/mgorgulu
+[2013-05-24 10:23:06] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-05-24 10:23:06] homedirs(): _make_homedir:      gid => 45
+[2013-05-24 10:23:06] homedirs(): _make_homedir: Attempting to create directory: /facvol/mgorgulu
+[2013-05-24 10:23:06] homedirs(): _make_homedir: Created home directory: /facvol/mgorgulu
+[2013-05-24 10:23:06] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/mgorgulu
+[2013-05-24 10:23:06] homedirs(): _make_homedir: /facvol/mgorgulu ownership changed to 20009:45
+[2013-05-24 10:23:06] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/mgorgulu
+[2013-05-24 10:23:06] homedirs(): _make_homedir: Set permissions on /facvol/mgorgulu/.cshrc
+[2013-05-24 10:23:07] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/mgorgulu
+[2013-05-24 10:23:07] homedirs(): _make_homedir: Set permissions on /facvol/mgorgulu/.login
+[2013-05-24 10:23:07] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/mgorgulu
+[2013-05-24 10:23:07] homedirs(): _make_homedir: Set permissions on /facvol/mgorgulu/.profile
+[2013-05-24 10:23:07] homedirs(): _make_homedir: returning with value: 1
+[2013-05-24 10:23:07] GRIDLIB(): InitAccount: Created homedir for mgorgulu
+[2013-06-06 15:46:52] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-06-06 15:46:52] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-06-06 15:46:52] GRIDLIB(): InitAccount: uname  => forabona
+[2013-06-06 15:46:52] GRIDLIB(): InitAccount: uid    => 20010
+[2013-06-06 15:46:52] GRIDLIB(): InitAccount: actype => f
+[2013-06-06 15:46:52] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-06-06 15:46:52] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-06-06 15:46:52] homedirs(): _make_homedir: homedir  => /facvol/forabona
+[2013-06-06 15:46:52] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-06-06 15:46:52] homedirs(): _make_homedir:      gid => 45
+[2013-06-06 15:46:52] homedirs(): _make_homedir: Attempting to create directory: /facvol/forabona
+[2013-06-06 15:46:52] homedirs(): _make_homedir: Created home directory: /facvol/forabona
+[2013-06-06 15:46:52] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/forabona
+[2013-06-06 15:46:52] homedirs(): _make_homedir: /facvol/forabona ownership changed to 20010:45
+[2013-06-06 15:46:52] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/forabona
+[2013-06-06 15:46:52] homedirs(): _make_homedir: Set permissions on /facvol/forabona/.cshrc
+[2013-06-06 15:46:52] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/forabona
+[2013-06-06 15:46:52] homedirs(): _make_homedir: Set permissions on /facvol/forabona/.login
+[2013-06-06 15:46:52] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/forabona
+[2013-06-06 15:46:52] homedirs(): _make_homedir: Set permissions on /facvol/forabona/.profile
+[2013-06-06 15:46:52] homedirs(): _make_homedir: returning with value: 1
+[2013-06-06 15:46:52] GRIDLIB(): InitAccount: Created homedir for forabona
+[2013-06-11 13:30:55] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-06-11 13:30:55] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-06-11 13:30:55] GRIDLIB(): InitAccount: uname  => jpontic0
+[2013-06-11 13:30:55] GRIDLIB(): InitAccount: uid    => 20011
+[2013-06-11 13:30:55] GRIDLIB(): InitAccount: actype => f
+[2013-06-11 13:30:55] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-06-11 13:30:55] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-06-11 13:30:55] homedirs(): _make_homedir: homedir  => /facvol/jpontic0
+[2013-06-11 13:30:55] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-06-11 13:30:55] homedirs(): _make_homedir:      gid => 45
+[2013-06-11 13:30:55] homedirs(): _make_homedir: Attempting to create directory: /facvol/jpontic0
+[2013-06-11 13:30:55] homedirs(): _make_homedir: Created home directory: /facvol/jpontic0
+[2013-06-11 13:30:55] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/jpontic0
+[2013-06-11 13:30:55] homedirs(): _make_homedir: /facvol/jpontic0 ownership changed to 20011:45
+[2013-06-11 13:30:55] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/jpontic0
+[2013-06-11 13:30:55] homedirs(): _make_homedir: Set permissions on /facvol/jpontic0/.cshrc
+[2013-06-11 13:30:55] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/jpontic0
+[2013-06-11 13:30:55] homedirs(): _make_homedir: Set permissions on /facvol/jpontic0/.login
+[2013-06-11 13:30:55] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/jpontic0
+[2013-06-11 13:30:55] homedirs(): _make_homedir: Set permissions on /facvol/jpontic0/.profile
+[2013-06-11 13:30:55] homedirs(): _make_homedir: returning with value: 1
+[2013-06-11 13:30:55] GRIDLIB(): InitAccount: Created homedir for jpontic0
+[2013-06-20 10:17:29] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-06-20 10:17:29] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-06-20 10:17:29] GRIDLIB(): InitAccount: uname  => nkumar6
+[2013-06-20 10:17:29] GRIDLIB(): InitAccount: uid    => 20012
+[2013-06-20 10:17:29] GRIDLIB(): InitAccount: actype => f
+[2013-06-20 10:17:29] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-06-20 10:17:29] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-06-20 10:17:29] homedirs(): _make_homedir: homedir  => /facvol/nkumar6
+[2013-06-20 10:17:29] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-06-20 10:17:29] homedirs(): _make_homedir:      gid => 45
+[2013-06-20 10:17:29] homedirs(): _make_homedir: Attempting to create directory: /facvol/nkumar6
+[2013-06-20 10:17:29] homedirs(): _make_homedir: Created home directory: /facvol/nkumar6
+[2013-06-20 10:17:29] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/nkumar6
+[2013-06-20 10:17:29] homedirs(): _make_homedir: /facvol/nkumar6 ownership changed to 20012:45
+[2013-06-20 10:17:29] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/nkumar6
+[2013-06-20 10:17:29] homedirs(): _make_homedir: Set permissions on /facvol/nkumar6/.cshrc
+[2013-06-20 10:17:29] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/nkumar6
+[2013-06-20 10:17:29] homedirs(): _make_homedir: Set permissions on /facvol/nkumar6/.login
+[2013-06-20 10:17:29] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/nkumar6
+[2013-06-20 10:17:29] homedirs(): _make_homedir: Set permissions on /facvol/nkumar6/.profile
+[2013-06-20 10:17:29] homedirs(): _make_homedir: returning with value: 1
+[2013-06-20 10:17:29] GRIDLIB(): InitAccount: Created homedir for nkumar6
+[2013-06-20 10:19:01] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-06-20 10:19:01] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-06-20 10:19:01] GRIDLIB(): InitAccount: uname  => igoswam0
+[2013-06-20 10:19:01] GRIDLIB(): InitAccount: uid    => 20013
+[2013-06-20 10:19:01] GRIDLIB(): InitAccount: actype => f
+[2013-06-20 10:19:01] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-06-20 10:19:01] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-06-20 10:19:01] homedirs(): _make_homedir: homedir  => /facvol/igoswam0
+[2013-06-20 10:19:01] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-06-20 10:19:01] homedirs(): _make_homedir:      gid => 45
+[2013-06-20 10:19:01] homedirs(): _make_homedir: Attempting to create directory: /facvol/igoswam0
+[2013-06-20 10:19:01] homedirs(): _make_homedir: Created home directory: /facvol/igoswam0
+[2013-06-20 10:19:01] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/igoswam0
+[2013-06-20 10:19:01] homedirs(): _make_homedir: /facvol/igoswam0 ownership changed to 20013:45
+[2013-06-20 10:19:01] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/igoswam0
+[2013-06-20 10:19:01] homedirs(): _make_homedir: Set permissions on /facvol/igoswam0/.cshrc
+[2013-06-20 10:19:01] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/igoswam0
+[2013-06-20 10:19:01] homedirs(): _make_homedir: Set permissions on /facvol/igoswam0/.login
+[2013-06-20 10:19:01] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/igoswam0
+[2013-06-20 10:19:01] homedirs(): _make_homedir: Set permissions on /facvol/igoswam0/.profile
+[2013-06-20 10:19:01] homedirs(): _make_homedir: returning with value: 1
+[2013-06-20 10:19:01] GRIDLIB(): InitAccount: Created homedir for igoswam0
+[2013-06-20 10:27:06] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-06-20 10:27:06] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-06-20 10:27:06] GRIDLIB(): DeleteAccount: uname  => nkumar6
+[2013-06-20 10:27:06] GRIDLIB(): DeleteAccount: actype => f
+[2013-06-20 10:27:06] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-06-20 10:27:06] homedirs(): _remove_homedir: uname   => nkumar6
+[2013-06-20 10:27:06] homedirs(): _remove_homedir: actype  => f
+[2013-06-20 10:27:06] homedirs(): _remove_homedir: homedir => /facvol/nkumar6
+[2013-06-20 10:27:06] GRIDLIB(): DeleteAccount: Removed homedir for nkumar6
+[2013-06-20 10:28:05] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-06-20 10:28:05] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-06-20 10:28:05] GRIDLIB(): DeleteAccount: uname  => igoswam0
+[2013-06-20 10:28:05] GRIDLIB(): DeleteAccount: actype => f
+[2013-06-20 10:28:05] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-06-20 10:28:05] homedirs(): _remove_homedir: uname   => igoswam0
+[2013-06-20 10:28:05] homedirs(): _remove_homedir: actype  => f
+[2013-06-20 10:28:05] homedirs(): _remove_homedir: homedir => /facvol/igoswam0
+[2013-06-20 10:28:05] GRIDLIB(): DeleteAccount: Removed homedir for igoswam0
+[2013-06-22 03:00:37] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-06-22 03:00:37] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-06-22 03:00:37] GRIDLIB(): DeleteAccount: uname  => hbhan
+[2013-06-22 03:00:37] GRIDLIB(): DeleteAccount: actype => p
+[2013-06-22 03:00:37] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-06-22 03:00:37] homedirs(): _remove_homedir: uname   => hbhan
+[2013-06-22 03:00:37] homedirs(): _remove_homedir: actype  => p
+[2013-06-22 03:00:37] homedirs(): _remove_homedir: homedir => /phdvol/hbhan
+[2013-06-22 03:00:37] GRIDLIB(): DeleteAccount: Removed homedir for hbhan
+[2013-06-22 03:00:38] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-06-22 03:00:38] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-06-22 03:00:38] GRIDLIB(): DeleteAccount: uname  => rwang3
+[2013-06-22 03:00:38] GRIDLIB(): DeleteAccount: actype => p
+[2013-06-22 03:00:38] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-06-22 03:00:38] homedirs(): _remove_homedir: uname   => rwang3
+[2013-06-22 03:00:38] homedirs(): _remove_homedir: actype  => p
+[2013-06-22 03:00:38] homedirs(): _remove_homedir: homedir => /phdvol/rwang3
+[2013-06-22 03:00:38] GRIDLIB(): DeleteAccount: Removed homedir for rwang3
+[2013-06-24 03:00:49] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-06-24 03:00:49] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-06-24 03:00:49] GRIDLIB(): DeleteAccount: uname  => eschwill
+[2013-06-24 03:00:49] GRIDLIB(): DeleteAccount: actype => p
+[2013-06-24 03:00:49] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-06-24 03:00:49] homedirs(): _remove_homedir: uname   => eschwill
+[2013-06-24 03:00:49] homedirs(): _remove_homedir: actype  => p
+[2013-06-24 03:00:49] homedirs(): _remove_homedir: homedir => /phdvol/eschwill
+[2013-06-24 03:00:49] GRIDLIB(): DeleteAccount: Removed homedir for eschwill
+[2013-06-27 13:53:12] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-06-27 13:53:12] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-06-27 13:53:12] GRIDLIB(): InitAccount: uname  => schu0
+[2013-06-27 13:53:12] GRIDLIB(): InitAccount: uid    => 20014
+[2013-06-27 13:53:12] GRIDLIB(): InitAccount: actype => f
+[2013-06-27 13:53:12] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-06-27 13:53:12] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-06-27 13:53:12] homedirs(): _make_homedir: homedir  => /facvol/schu0
+[2013-06-27 13:53:12] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-06-27 13:53:12] homedirs(): _make_homedir:      gid => 45
+[2013-06-27 13:53:12] homedirs(): _make_homedir: Attempting to create directory: /facvol/schu0
+[2013-06-27 13:53:12] homedirs(): _make_homedir: Created home directory: /facvol/schu0
+[2013-06-27 13:53:12] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/schu0
+[2013-06-27 13:53:12] homedirs(): _make_homedir: /facvol/schu0 ownership changed to 20014:45
+[2013-06-27 13:53:12] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/schu0
+[2013-06-27 13:53:12] homedirs(): _make_homedir: Set permissions on /facvol/schu0/.cshrc
+[2013-06-27 13:53:12] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/schu0
+[2013-06-27 13:53:12] homedirs(): _make_homedir: Set permissions on /facvol/schu0/.login
+[2013-06-27 13:53:12] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/schu0
+[2013-06-27 13:53:12] homedirs(): _make_homedir: Set permissions on /facvol/schu0/.profile
+[2013-06-27 13:53:12] homedirs(): _make_homedir: returning with value: 1
+[2013-06-27 13:53:12] GRIDLIB(): InitAccount: Created homedir for schu0
+[2013-07-03 09:58:56] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-07-03 09:58:56] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-07-03 09:58:56] GRIDLIB(): InitAccount: uname  => jyeh
+[2013-07-03 09:58:56] GRIDLIB(): InitAccount: uid    => 20015
+[2013-07-03 09:58:56] GRIDLIB(): InitAccount: actype => f
+[2013-07-03 09:58:56] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-07-03 09:58:56] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-07-03 09:58:56] homedirs(): _make_homedir: homedir  => /facvol/jyeh
+[2013-07-03 09:58:56] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-07-03 09:58:56] homedirs(): _make_homedir:      gid => 45
+[2013-07-03 09:58:56] homedirs(): _make_homedir: Attempting to create directory: /facvol/jyeh
+[2013-07-03 09:58:56] homedirs(): _make_homedir: Created home directory: /facvol/jyeh
+[2013-07-03 09:58:56] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/jyeh
+[2013-07-03 09:58:56] homedirs(): _make_homedir: /facvol/jyeh ownership changed to 20015:45
+[2013-07-03 09:58:56] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/jyeh
+[2013-07-03 09:58:56] homedirs(): _make_homedir: Set permissions on /facvol/jyeh/.cshrc
+[2013-07-03 09:58:56] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/jyeh
+[2013-07-03 09:58:56] homedirs(): _make_homedir: Set permissions on /facvol/jyeh/.login
+[2013-07-03 09:58:56] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/jyeh
+[2013-07-03 09:58:56] homedirs(): _make_homedir: Set permissions on /facvol/jyeh/.profile
+[2013-07-03 09:58:56] homedirs(): _make_homedir: returning with value: 1
+[2013-07-03 09:58:56] GRIDLIB(): InitAccount: Created homedir for jyeh
+[2013-07-03 10:18:25] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-07-03 10:18:25] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-07-03 10:18:25] GRIDLIB(): InitAccount: uname  => schoshen
+[2013-07-03 10:18:25] GRIDLIB(): InitAccount: uid    => 20016
+[2013-07-03 10:18:25] GRIDLIB(): InitAccount: actype => f
+[2013-07-03 10:18:25] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-07-03 10:18:25] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-07-03 10:18:25] homedirs(): _make_homedir: homedir  => /facvol/schoshen
+[2013-07-03 10:18:25] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-07-03 10:18:25] homedirs(): _make_homedir:      gid => 45
+[2013-07-03 10:18:25] homedirs(): _make_homedir: Attempting to create directory: /facvol/schoshen
+[2013-07-03 10:18:25] homedirs(): _make_homedir: Created home directory: /facvol/schoshen
+[2013-07-03 10:18:25] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/schoshen
+[2013-07-03 10:18:25] homedirs(): _make_homedir: /facvol/schoshen ownership changed to 20016:45
+[2013-07-03 10:18:25] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/schoshen
+[2013-07-03 10:18:25] homedirs(): _make_homedir: Set permissions on /facvol/schoshen/.cshrc
+[2013-07-03 10:18:25] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/schoshen
+[2013-07-03 10:18:25] homedirs(): _make_homedir: Set permissions on /facvol/schoshen/.login
+[2013-07-03 10:18:25] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/schoshen
+[2013-07-03 10:18:25] homedirs(): _make_homedir: Set permissions on /facvol/schoshen/.profile
+[2013-07-03 10:18:25] homedirs(): _make_homedir: returning with value: 1
+[2013-07-03 10:18:25] GRIDLIB(): InitAccount: Created homedir for schoshen
+[2013-07-23 10:01:03] GRIDLIB(): ServiceTester: entering ServiceTester()
+[2013-07-23 10:01:03] GRIDLIB(): ServiceTester: self => GRIDLIB
+[2013-07-23 10:01:03] GRIDLIB(): ServiceTester: returning service operational
+[2013-08-29 12:48:22] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-08-29 12:48:22] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-08-29 12:48:22] GRIDLIB(): InitAccount: uname  => asuther0
+[2013-08-29 12:48:22] GRIDLIB(): InitAccount: uid    => 20017
+[2013-08-29 12:48:22] GRIDLIB(): InitAccount: actype => f
+[2013-08-29 12:48:22] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-08-29 12:48:22] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-08-29 12:48:22] homedirs(): _make_homedir: homedir  => /facvol/asuther0
+[2013-08-29 12:48:22] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-08-29 12:48:22] homedirs(): _make_homedir:      gid => 45
+[2013-08-29 12:48:22] homedirs(): _make_homedir: Attempting to create directory: /facvol/asuther0
+[2013-08-29 12:48:22] homedirs(): _make_homedir: Created home directory: /facvol/asuther0
+[2013-08-29 12:48:22] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/asuther0
+[2013-08-29 12:48:22] homedirs(): _make_homedir: /facvol/asuther0 ownership changed to 20017:45
+[2013-08-29 12:48:22] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/asuther0
+[2013-08-29 12:48:22] homedirs(): _make_homedir: Set permissions on /facvol/asuther0/.cshrc
+[2013-08-29 12:48:22] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/asuther0
+[2013-08-29 12:48:22] homedirs(): _make_homedir: Set permissions on /facvol/asuther0/.login
+[2013-08-29 12:48:22] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/asuther0
+[2013-08-29 12:48:22] homedirs(): _make_homedir: Set permissions on /facvol/asuther0/.profile
+[2013-08-29 12:48:22] homedirs(): _make_homedir: returning with value: 1
+[2013-08-29 12:48:22] GRIDLIB(): InitAccount: Created homedir for asuther0
+[2013-09-14 03:00:17] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-09-14 03:00:17] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-09-14 03:00:17] GRIDLIB(): DeleteAccount: uname  => gmanzo
+[2013-09-14 03:00:17] GRIDLIB(): DeleteAccount: actype => p
+[2013-09-14 03:00:17] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-09-14 03:00:17] homedirs(): _remove_homedir: uname   => gmanzo
+[2013-09-14 03:00:17] homedirs(): _remove_homedir: actype  => p
+[2013-09-14 03:00:17] homedirs(): _remove_homedir: homedir => /phdvol/gmanzo
+cannot remove directory for /phdvol/gmanzo: Input/output error at /opt/gsb/grid/webservice/lib/homedirs.pm line 160
+[2013-09-14 03:00:58] GRIDLIB(): DeleteAccount: Removed homedir for gmanzo
+[2013-09-14 03:01:06] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-09-14 03:01:06] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-09-14 03:01:06] GRIDLIB(): DeleteAccount: uname  => pleung1
+[2013-09-14 03:01:06] GRIDLIB(): DeleteAccount: actype => p
+[2013-09-14 03:01:06] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-09-14 03:01:06] homedirs(): _remove_homedir: uname   => pleung1
+[2013-09-14 03:01:06] homedirs(): _remove_homedir: actype  => p
+[2013-09-14 03:01:06] homedirs(): _remove_homedir: homedir => /phdvol/pleung1
+[2013-09-14 03:01:06] GRIDLIB(): DeleteAccount: Removed homedir for pleung1
+[2013-09-14 03:01:07] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-09-14 03:01:07] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-09-14 03:01:07] GRIDLIB(): DeleteAccount: uname  => dgorea
+[2013-09-14 03:01:07] GRIDLIB(): DeleteAccount: actype => p
+[2013-09-14 03:01:07] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-09-14 03:01:07] homedirs(): _remove_homedir: uname   => dgorea
+[2013-09-14 03:01:07] homedirs(): _remove_homedir: actype  => p
+[2013-09-14 03:01:07] homedirs(): _remove_homedir: homedir => /phdvol/dgorea
+[2013-09-14 03:01:07] GRIDLIB(): DeleteAccount: Removed homedir for dgorea
+[2013-09-14 03:01:07] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-09-14 03:01:07] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-09-14 03:01:07] GRIDLIB(): DeleteAccount: uname  => sakca
+[2013-09-14 03:01:07] GRIDLIB(): DeleteAccount: actype => p
+[2013-09-14 03:01:07] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-09-14 03:01:07] homedirs(): _remove_homedir: uname   => sakca
+[2013-09-14 03:01:07] homedirs(): _remove_homedir: actype  => p
+[2013-09-14 03:01:07] homedirs(): _remove_homedir: homedir => /phdvol/sakca
+[2013-09-14 03:01:07] GRIDLIB(): DeleteAccount: Removed homedir for sakca
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: uname  => avirbick
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: actype => p
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-09-14 03:01:08] homedirs(): _remove_homedir: uname   => avirbick
+[2013-09-14 03:01:08] homedirs(): _remove_homedir: actype  => p
+[2013-09-14 03:01:08] homedirs(): _remove_homedir: homedir => /phdvol/avirbick
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: Removed homedir for avirbick
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: uname  => swang11
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: actype => p
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-09-14 03:01:08] homedirs(): _remove_homedir: uname   => swang11
+[2013-09-14 03:01:08] homedirs(): _remove_homedir: actype  => p
+[2013-09-14 03:01:08] homedirs(): _remove_homedir: homedir => /phdvol/swang11
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: Removed homedir for swang11
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: uname  => cchen12
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: actype => p
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-09-14 03:01:08] homedirs(): _remove_homedir: uname   => cchen12
+[2013-09-14 03:01:08] homedirs(): _remove_homedir: actype  => p
+[2013-09-14 03:01:08] homedirs(): _remove_homedir: homedir => /phdvol/cchen12
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: Removed homedir for cchen12
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: uname  => wzhang8
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: actype => p
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-09-14 03:01:08] homedirs(): _remove_homedir: uname   => wzhang8
+[2013-09-14 03:01:08] homedirs(): _remove_homedir: actype  => p
+[2013-09-14 03:01:08] homedirs(): _remove_homedir: homedir => /phdvol/wzhang8
+[2013-09-14 03:01:08] GRIDLIB(): DeleteAccount: Removed homedir for wzhang8
+[2013-10-01 03:28:48] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-10-01 03:28:48] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-10-01 03:28:48] GRIDLIB(): DeleteAccount: uname  => ngregory
+[2013-10-01 03:28:48] GRIDLIB(): DeleteAccount: actype => f
+[2013-10-01 03:28:48] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-10-01 03:28:48] homedirs(): _remove_homedir: uname   => ngregory
+[2013-10-01 03:28:48] homedirs(): _remove_homedir: actype  => f
+[2013-10-01 03:28:48] homedirs(): _remove_homedir: homedir => /facvol/ngregory
+cannot remove directory for /facvol/ngregory: Input/output error at /opt/gsb/grid/webservice/lib/homedirs.pm line 160
+[2013-10-01 03:28:48] GRIDLIB(): DeleteAccount: Removed homedir for ngregory
+[2013-10-01 03:28:50] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-10-01 03:28:50] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-10-01 03:28:50] GRIDLIB(): DeleteAccount: uname  => jrogers2
+[2013-10-01 03:28:50] GRIDLIB(): DeleteAccount: actype => f
+[2013-10-01 03:28:50] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-10-01 03:28:50] homedirs(): _remove_homedir: uname   => jrogers2
+[2013-10-01 03:28:50] homedirs(): _remove_homedir: actype  => f
+[2013-10-01 03:28:50] homedirs(): _remove_homedir: homedir => /facvol/jrogers2
+cannot remove directory for /facvol/jrogers2: Input/output error at /opt/gsb/grid/webservice/lib/homedirs.pm line 160
+[2013-10-01 03:28:51] GRIDLIB(): DeleteAccount: Removed homedir for jrogers2
+[2013-10-01 03:30:30] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-10-01 03:30:30] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-10-01 03:30:30] GRIDLIB(): DeleteAccount: uname  => rkoijen
+[2013-10-01 03:30:30] GRIDLIB(): DeleteAccount: actype => f
+[2013-10-01 03:30:30] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-10-01 03:30:30] homedirs(): _remove_homedir: uname   => rkoijen
+[2013-10-01 03:30:30] homedirs(): _remove_homedir: actype  => f
+[2013-10-01 03:30:30] homedirs(): _remove_homedir: homedir => /facvol/rkoijen
+cannot remove directory for /facvol/rkoijen: Input/output error at /opt/gsb/grid/webservice/lib/homedirs.pm line 160
+[2013-10-01 03:30:31] GRIDLIB(): DeleteAccount: Removed homedir for rkoijen
+[2013-10-01 03:32:10] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-10-01 03:32:10] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-10-01 03:32:10] GRIDLIB(): DeleteAccount: uname  => akovrijn
+[2013-10-01 03:32:10] GRIDLIB(): DeleteAccount: actype => f
+[2013-10-01 03:32:10] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-10-01 03:32:10] homedirs(): _remove_homedir: uname   => akovrijn
+[2013-10-01 03:32:10] homedirs(): _remove_homedir: actype  => f
+[2013-10-01 03:32:10] homedirs(): _remove_homedir: homedir => /facvol/akovrijn
+cannot remove directory for /facvol/akovrijn: Input/output error at /opt/gsb/grid/webservice/lib/homedirs.pm line 160
+[2013-10-01 03:32:11] GRIDLIB(): DeleteAccount: Removed homedir for akovrijn
+[2013-10-01 03:33:49] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-10-01 03:33:49] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-10-01 03:33:49] GRIDLIB(): DeleteAccount: uname  => ableck
+[2013-10-01 03:33:49] GRIDLIB(): DeleteAccount: actype => f
+[2013-10-01 03:33:49] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-10-01 03:33:49] homedirs(): _remove_homedir: uname   => ableck
+[2013-10-01 03:33:49] homedirs(): _remove_homedir: actype  => f
+[2013-10-01 03:33:49] homedirs(): _remove_homedir: homedir => /facvol/ableck
+cannot remove directory for /facvol/ableck: Input/output error at /opt/gsb/grid/webservice/lib/homedirs.pm line 160
+[2013-10-01 03:33:49] GRIDLIB(): DeleteAccount: Removed homedir for ableck
+[2013-10-01 03:34:23] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-10-01 03:34:23] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-10-01 03:34:23] GRIDLIB(): DeleteAccount: uname  => amorse
+[2013-10-01 03:34:23] GRIDLIB(): DeleteAccount: actype => f
+[2013-10-01 03:34:23] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-10-01 03:34:23] homedirs(): _remove_homedir: uname   => amorse
+[2013-10-01 03:34:23] homedirs(): _remove_homedir: actype  => f
+[2013-10-01 03:34:23] homedirs(): _remove_homedir: homedir => /facvol/amorse
+cannot remove directory for /facvol/amorse: Input/output error at /opt/gsb/grid/webservice/lib/homedirs.pm line 160
+[2013-10-01 03:34:23] GRIDLIB(): DeleteAccount: Removed homedir for amorse
+[2013-10-01 03:34:50] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-10-01 03:34:50] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-10-01 03:34:50] GRIDLIB(): DeleteAccount: uname  => jenlao
+[2013-10-01 03:34:50] GRIDLIB(): DeleteAccount: actype => f
+[2013-10-01 03:34:50] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-10-01 03:34:50] homedirs(): _remove_homedir: uname   => jenlao
+[2013-10-01 03:34:50] homedirs(): _remove_homedir: actype  => f
+[2013-10-01 03:34:50] homedirs(): _remove_homedir: homedir => /facvol/jenlao
+[2013-10-01 03:34:50] GRIDLIB(): DeleteAccount: Removed homedir for jenlao
+[2013-10-01 03:36:15] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-10-01 03:36:15] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-10-01 03:36:15] GRIDLIB(): DeleteAccount: uname  => jstroebe
+[2013-10-01 03:36:15] GRIDLIB(): DeleteAccount: actype => f
+[2013-10-01 03:36:15] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-10-01 03:36:15] homedirs(): _remove_homedir: uname   => jstroebe
+[2013-10-01 03:36:15] homedirs(): _remove_homedir: actype  => f
+[2013-10-01 03:36:15] homedirs(): _remove_homedir: homedir => /facvol/jstroebe
+cannot remove directory for /facvol/jstroebe: Input/output error at /opt/gsb/grid/webservice/lib/homedirs.pm line 160
+[2013-10-01 03:36:15] GRIDLIB(): DeleteAccount: Removed homedir for jstroebe
+[2013-10-01 16:06:46] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-10-01 16:06:46] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-10-01 16:06:46] GRIDLIB(): InitAccount: uname  => frossi
+[2013-10-01 16:06:46] GRIDLIB(): InitAccount: uid    => 20018
+[2013-10-01 16:06:46] GRIDLIB(): InitAccount: actype => f
+[2013-10-01 16:06:46] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-10-01 16:06:46] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-10-01 16:06:46] homedirs(): _make_homedir: homedir  => /facvol/frossi
+[2013-10-01 16:06:46] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-10-01 16:06:46] homedirs(): _make_homedir:      gid => 45
+[2013-10-01 16:06:46] homedirs(): _make_homedir: Attempting to create directory: /facvol/frossi
+[2013-10-01 16:06:46] homedirs(): _make_homedir: Created home directory: /facvol/frossi
+[2013-10-01 16:06:46] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/frossi
+[2013-10-01 16:06:46] homedirs(): _make_homedir: /facvol/frossi ownership changed to 20018:45
+[2013-10-01 16:06:46] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/frossi
+[2013-10-01 16:06:46] homedirs(): _make_homedir: Set permissions on /facvol/frossi/.cshrc
+[2013-10-01 16:06:46] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/frossi
+[2013-10-01 16:06:46] homedirs(): _make_homedir: Set permissions on /facvol/frossi/.login
+[2013-10-01 16:06:46] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/frossi
+[2013-10-01 16:06:46] homedirs(): _make_homedir: Set permissions on /facvol/frossi/.profile
+[2013-10-01 16:06:46] homedirs(): _make_homedir: returning with value: 1
+[2013-10-01 16:06:46] GRIDLIB(): InitAccount: Created homedir for frossi
+[2013-10-28 09:17:49] GRIDLIB(): ServiceTester: entering ServiceTester()
+[2013-10-28 09:17:49] GRIDLIB(): ServiceTester: self => GRIDLIB
+[2013-10-28 09:17:49] GRIDLIB(): ServiceTester: returning service operational
+[2013-10-28 09:17:50] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-10-28 09:17:50] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-10-28 09:17:50] GRIDLIB(): InitAccount: uname  => gridtest
+[2013-10-28 09:17:50] GRIDLIB(): InitAccount: uid    => 23232
+[2013-10-28 09:17:50] GRIDLIB(): InitAccount: actype => p
+[2013-10-28 09:17:50] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-10-28 09:17:50] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-10-28 09:17:50] homedirs(): _make_homedir: homedir  => /phdvol/gridtest
+[2013-10-28 09:17:50] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-10-28 09:17:50] homedirs(): _make_homedir:      gid => 30
+[2013-10-28 09:17:50] homedirs(): _make_homedir: Attempting to create directory: /phdvol/gridtest
+[2013-10-28 09:17:50] homedirs(): _make_homedir: FAILED to create directory /phdvol/gridtest: /phdvol/gridtest already exists
+[2013-10-28 09:18:41] GRIDLIB(): ServiceTester: entering ServiceTester()
+[2013-10-28 09:18:41] GRIDLIB(): ServiceTester: self => GRIDLIB
+[2013-10-28 09:18:41] GRIDLIB(): ServiceTester: returning service operational
+[2013-11-19 14:46:19] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-11-19 14:46:19] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-11-19 14:46:19] GRIDLIB(): InitAccount: uname  => smalone
+[2013-11-19 14:46:19] GRIDLIB(): InitAccount: uid    => 20019
+[2013-11-19 14:46:19] GRIDLIB(): InitAccount: actype => f
+[2013-11-19 14:46:19] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-11-19 14:46:19] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-11-19 14:46:19] homedirs(): _make_homedir: homedir  => /facvol/smalone
+[2013-11-19 14:46:19] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-11-19 14:46:19] homedirs(): _make_homedir:      gid => 45
+[2013-11-19 14:46:19] homedirs(): _make_homedir: Attempting to create directory: /facvol/smalone
+[2013-11-19 14:46:19] homedirs(): _make_homedir: Created home directory: /facvol/smalone
+[2013-11-19 14:46:19] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/smalone
+[2013-11-19 14:46:19] homedirs(): _make_homedir: /facvol/smalone ownership changed to 20019:45
+[2013-11-19 14:46:19] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/smalone
+[2013-11-19 14:46:19] homedirs(): _make_homedir: Set permissions on /facvol/smalone/.cshrc
+[2013-11-19 14:46:19] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/smalone
+[2013-11-19 14:46:19] homedirs(): _make_homedir: Set permissions on /facvol/smalone/.login
+[2013-11-19 14:46:19] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/smalone
+[2013-11-19 14:46:19] homedirs(): _make_homedir: Set permissions on /facvol/smalone/.profile
+[2013-11-19 14:46:19] homedirs(): _make_homedir: returning with value: 1
+[2013-11-19 14:46:19] GRIDLIB(): InitAccount: Created homedir for smalone
+[2013-11-25 10:32:29] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-11-25 10:32:29] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-11-25 10:32:29] GRIDLIB(): InitAccount: uname  => dhanna
+[2013-11-25 10:32:29] GRIDLIB(): InitAccount: uid    => 20020
+[2013-11-25 10:32:29] GRIDLIB(): InitAccount: actype => f
+[2013-11-25 10:32:29] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-11-25 10:32:29] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-11-25 10:32:29] homedirs(): _make_homedir: homedir  => /facvol/dhanna
+[2013-11-25 10:32:29] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-11-25 10:32:29] homedirs(): _make_homedir:      gid => 45
+[2013-11-25 10:32:29] homedirs(): _make_homedir: Attempting to create directory: /facvol/dhanna
+[2013-11-25 10:32:29] homedirs(): _make_homedir: Created home directory: /facvol/dhanna
+[2013-11-25 10:32:29] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/dhanna
+[2013-11-25 10:32:29] homedirs(): _make_homedir: /facvol/dhanna ownership changed to 20020:45
+[2013-11-25 10:32:29] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/dhanna
+[2013-11-25 10:32:29] homedirs(): _make_homedir: Set permissions on /facvol/dhanna/.cshrc
+[2013-11-25 10:32:29] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/dhanna
+[2013-11-25 10:32:29] homedirs(): _make_homedir: Set permissions on /facvol/dhanna/.login
+[2013-11-25 10:32:29] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/dhanna
+[2013-11-25 10:32:29] homedirs(): _make_homedir: Set permissions on /facvol/dhanna/.profile
+[2013-11-25 10:32:29] homedirs(): _make_homedir: returning with value: 1
+[2013-11-25 10:32:29] GRIDLIB(): InitAccount: Created homedir for dhanna
+[2013-11-25 14:32:20] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-11-25 14:32:20] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-11-25 14:32:20] GRIDLIB(): DeleteAccount: uname  => dhanna
+[2013-11-25 14:32:20] GRIDLIB(): DeleteAccount: actype => f
+[2013-11-25 14:32:20] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-11-25 14:32:20] homedirs(): _remove_homedir: uname   => dhanna
+[2013-11-25 14:32:20] homedirs(): _remove_homedir: actype  => f
+[2013-11-25 14:32:20] homedirs(): _remove_homedir: homedir => /facvol/dhanna
+[2013-11-25 14:32:20] GRIDLIB(): DeleteAccount: Removed homedir for dhanna
+[2013-11-25 14:53:26] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-11-25 14:53:26] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-11-25 14:53:26] GRIDLIB(): InitAccount: uname  => jhanna
+[2013-11-25 14:53:26] GRIDLIB(): InitAccount: uid    => 20021
+[2013-11-25 14:53:26] GRIDLIB(): InitAccount: actype => f
+[2013-11-25 14:53:26] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-11-25 14:53:26] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-11-25 14:53:26] homedirs(): _make_homedir: homedir  => /facvol/jhanna
+[2013-11-25 14:53:26] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-11-25 14:53:26] homedirs(): _make_homedir:      gid => 45
+[2013-11-25 14:53:26] homedirs(): _make_homedir: Attempting to create directory: /facvol/jhanna
+[2013-11-25 14:53:26] homedirs(): _make_homedir: Created home directory: /facvol/jhanna
+[2013-11-25 14:53:26] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/jhanna
+[2013-11-25 14:53:26] homedirs(): _make_homedir: /facvol/jhanna ownership changed to 20021:45
+[2013-11-25 14:53:26] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/jhanna
+[2013-11-25 14:53:26] homedirs(): _make_homedir: Set permissions on /facvol/jhanna/.cshrc
+[2013-11-25 14:53:26] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/jhanna
+[2013-11-25 14:53:26] homedirs(): _make_homedir: Set permissions on /facvol/jhanna/.login
+[2013-11-25 14:53:26] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/jhanna
+[2013-11-25 14:53:26] homedirs(): _make_homedir: Set permissions on /facvol/jhanna/.profile
+[2013-11-25 14:53:26] homedirs(): _make_homedir: returning with value: 1
+[2013-11-25 14:53:26] GRIDLIB(): InitAccount: Created homedir for jhanna
+[2013-11-28 03:00:41] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-11-28 03:00:41] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-11-28 03:00:41] GRIDLIB(): DeleteAccount: uname  => ldarragh
+[2013-11-28 03:00:41] GRIDLIB(): DeleteAccount: actype => f
+[2013-11-28 03:00:41] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-11-28 03:00:41] homedirs(): _remove_homedir: uname   => ldarragh
+[2013-11-28 03:00:41] homedirs(): _remove_homedir: actype  => f
+[2013-11-28 03:00:41] homedirs(): _remove_homedir: homedir => /facvol/ldarragh
+cannot remove directory for /facvol/ldarragh: Input/output error at /opt/gsb/grid/webservice/lib/homedirs.pm line 160
+[2013-11-28 03:00:41] GRIDLIB(): DeleteAccount: Removed homedir for ldarragh
+[2013-11-30 03:18:15] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-11-30 03:18:15] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-11-30 03:18:15] GRIDLIB(): DeleteAccount: uname  => dfestlpe
+[2013-11-30 03:18:15] GRIDLIB(): DeleteAccount: actype => p
+[2013-11-30 03:18:15] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-11-30 03:18:15] homedirs(): _remove_homedir: uname   => dfestlpe
+[2013-11-30 03:18:15] homedirs(): _remove_homedir: actype  => p
+[2013-11-30 03:18:15] homedirs(): _remove_homedir: homedir => /phdvol/dfestlpe
+[2013-11-30 03:18:15] GRIDLIB(): DeleteAccount: Removed homedir for dfestlpe
+[2013-11-30 03:18:15] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2013-11-30 03:18:15] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2013-11-30 03:18:15] GRIDLIB(): DeleteAccount: uname  => akraus
+[2013-11-30 03:18:15] GRIDLIB(): DeleteAccount: actype => p
+[2013-11-30 03:18:15] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2013-11-30 03:18:15] homedirs(): _remove_homedir: uname   => akraus
+[2013-11-30 03:18:15] homedirs(): _remove_homedir: actype  => p
+[2013-11-30 03:18:15] homedirs(): _remove_homedir: homedir => /phdvol/akraus
+[2013-11-30 03:18:15] GRIDLIB(): DeleteAccount: Removed homedir for akraus
+[2013-12-01 18:59:25] GRIDLIB(): ServiceTester: entering ServiceTester()
+[2013-12-01 18:59:25] GRIDLIB(): ServiceTester: self => GRIDLIB
+[2013-12-01 18:59:25] GRIDLIB(): ServiceTester: returning service operational
+[2013-12-01 19:03:31] GRIDLIB(): ServiceTester: entering ServiceTester()
+[2013-12-01 19:03:31] GRIDLIB(): ServiceTester: self => GRIDLIB
+[2013-12-01 19:03:31] GRIDLIB(): ServiceTester: returning service operational
+[2013-12-04 17:58:04] GRIDLIB(): ServiceTester: entering ServiceTester()
+[2013-12-04 17:58:04] GRIDLIB(): ServiceTester: self => GRIDLIB
+[2013-12-04 17:58:04] GRIDLIB(): ServiceTester: returning service operational
+[2013-12-04 23:33:43] GRIDLIB(): ServiceTester: entering ServiceTester()
+[2013-12-04 23:33:43] GRIDLIB(): ServiceTester: self => GRIDLIB
+[2013-12-04 23:33:43] GRIDLIB(): ServiceTester: returning service operational
+[2013-12-26 13:59:52] GRIDLIB(): InitAccount: entering InitAccount()
+[2013-12-26 13:59:52] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2013-12-26 13:59:52] GRIDLIB(): InitAccount: uname  => bshapir1
+[2013-12-26 13:59:52] GRIDLIB(): InitAccount: uid    => 20022
+[2013-12-26 13:59:52] GRIDLIB(): InitAccount: actype => f
+[2013-12-26 13:59:52] GRIDLIB(): InitAccount: calling _make_homedir()
+[2013-12-26 13:59:52] homedirs(): _make_homedir: entering _make_homedirs()
+[2013-12-26 13:59:52] homedirs(): _make_homedir: homedir  => /facvol/bshapir1
+[2013-12-26 13:59:52] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2013-12-26 13:59:52] homedirs(): _make_homedir:      gid => 45
+[2013-12-26 13:59:52] homedirs(): _make_homedir: Attempting to create directory: /facvol/bshapir1
+[2013-12-26 13:59:52] homedirs(): _make_homedir: Created home directory: /facvol/bshapir1
+[2013-12-26 13:59:52] homedirs(): _make_homedir: Attempting to change ownership on: /facvol/bshapir1
+[2013-12-26 13:59:52] homedirs(): _make_homedir: /facvol/bshapir1 ownership changed to 20022:45
+[2013-12-26 13:59:52] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.cshrc to /facvol/bshapir1
+[2013-12-26 13:59:52] homedirs(): _make_homedir: Set permissions on /facvol/bshapir1/.cshrc
+[2013-12-26 13:59:52] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.login to /facvol/bshapir1
+[2013-12-26 13:59:52] homedirs(): _make_homedir: Set permissions on /facvol/bshapir1/.login
+[2013-12-26 13:59:52] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/f/.profile to /facvol/bshapir1
+[2013-12-26 13:59:52] homedirs(): _make_homedir: Set permissions on /facvol/bshapir1/.profile
+[2013-12-26 13:59:52] homedirs(): _make_homedir: returning with value: 1
+[2013-12-26 13:59:52] GRIDLIB(): InitAccount: Created homedir for bshapir1
+[2014-01-31 03:00:38] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2014-01-31 03:00:38] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2014-01-31 03:00:38] GRIDLIB(): DeleteAccount: uname  => whofmann
+[2014-01-31 03:00:38] GRIDLIB(): DeleteAccount: actype => f
+[2014-01-31 03:00:38] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2014-01-31 03:00:38] homedirs(): _remove_homedir: uname   => whofmann
+[2014-01-31 03:00:38] homedirs(): _remove_homedir: actype  => f
+[2014-01-31 03:00:38] homedirs(): _remove_homedir: homedir => /ifs/home/fac/whofmann
+[2014-01-31 03:00:38] GRIDLIB(): DeleteAccount: Removed homedir for whofmann
+[2014-01-31 03:00:55] GRIDLIB(): DeleteAccount: entering DeleteAccount()
+[2014-01-31 03:00:55] GRIDLIB(): DeleteAccount: self   => GRIDLIB
+[2014-01-31 03:00:55] GRIDLIB(): DeleteAccount: uname  => sorpurt0
+[2014-01-31 03:00:55] GRIDLIB(): DeleteAccount: actype => f
+[2014-01-31 03:00:55] GRIDLIB(): DeleteAccount: calling _remove_homedir()
+[2014-01-31 03:00:55] homedirs(): _remove_homedir: uname   => sorpurt0
+[2014-01-31 03:00:55] homedirs(): _remove_homedir: actype  => f
+[2014-01-31 03:00:55] homedirs(): _remove_homedir: homedir => /ifs/home/fac/sorpurt0
+[2014-01-31 03:00:55] GRIDLIB(): DeleteAccount: Removed homedir for sorpurt0
+[2014-02-03 17:51:00] GRIDLIB(): InitAccount: entering InitAccount()
+[2014-02-03 17:51:00] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2014-02-03 17:51:00] GRIDLIB(): InitAccount: uname  => tbooth0
+[2014-02-03 17:51:00] GRIDLIB(): InitAccount: uid    => 20023
+[2014-02-03 17:51:00] GRIDLIB(): InitAccount: actype => p
+[2014-02-03 17:51:00] GRIDLIB(): InitAccount: calling _make_homedir()
+[2014-02-03 17:51:00] homedirs(): _make_homedir: entering _make_homedirs()
+[2014-02-03 17:51:00] homedirs(): _make_homedir: homedir  => /ifs/home/phd/tbooth0
+[2014-02-03 17:51:00] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2014-02-03 17:51:00] homedirs(): _make_homedir:      gid => 30
+[2014-02-03 17:51:00] homedirs(): _make_homedir: Attempting to create directory: /ifs/home/phd/tbooth0
+[2014-02-03 17:51:00] homedirs(): _make_homedir: FAILED to create home directory /ifs/home/phd/tbooth0: No such file or directory
+[2014-02-03 17:59:45] GRIDLIB(): InitAccount: entering InitAccount()
+[2014-02-03 17:59:45] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2014-02-03 17:59:45] GRIDLIB(): InitAccount: uname  => tbooth1
+[2014-02-03 17:59:45] GRIDLIB(): InitAccount: uid    => 20024
+[2014-02-03 17:59:45] GRIDLIB(): InitAccount: actype => p
+[2014-02-03 17:59:45] GRIDLIB(): InitAccount: calling _make_homedir()
+[2014-02-03 17:59:45] homedirs(): _make_homedir: entering _make_homedirs()
+[2014-02-03 17:59:45] homedirs(): _make_homedir: homedir  => /phdvol/tbooth1
+[2014-02-03 17:59:45] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2014-02-03 17:59:45] homedirs(): _make_homedir:      gid => 30
+[2014-02-03 17:59:45] homedirs(): _make_homedir: Attempting to create directory: /phdvol/tbooth1
+[2014-02-03 17:59:45] homedirs(): _make_homedir: FAILED to create home directory /phdvol/tbooth1: Permission denied
+[2014-02-04 17:17:52] GRIDLIB(): InitAccount: entering InitAccount()
+[2014-02-04 17:17:52] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2014-02-04 17:17:52] GRIDLIB(): InitAccount: uname  => tbooth2
+[2014-02-04 17:17:52] GRIDLIB(): InitAccount: uid    => 20025
+[2014-02-04 17:17:52] GRIDLIB(): InitAccount: actype => p
+[2014-02-04 17:17:52] GRIDLIB(): InitAccount: calling _make_homedir()
+[2014-02-04 17:17:52] homedirs(): _make_homedir: entering _make_homedirs()
+[2014-02-04 17:17:52] homedirs(): _make_homedir: homedir  => /phdvol/tbooth2
+[2014-02-04 17:17:52] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2014-02-04 17:17:52] homedirs(): _make_homedir:      gid => 30
+[2014-02-04 17:17:52] homedirs(): _make_homedir: Attempting to create directory: /phdvol/tbooth2
+[2014-02-04 17:17:52] homedirs(): _make_homedir: FAILED to create home directory /phdvol/tbooth2: No such file or directory
+[2014-02-04 17:21:54] GRIDLIB(): InitAccount: entering InitAccount()
+[2014-02-04 17:21:54] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2014-02-04 17:21:54] GRIDLIB(): InitAccount: uname  => tbooth3
+[2014-02-04 17:21:54] GRIDLIB(): InitAccount: uid    => 20026
+[2014-02-04 17:21:54] GRIDLIB(): InitAccount: actype => p
+[2014-02-04 17:21:54] GRIDLIB(): InitAccount: calling _make_homedir()
+[2014-02-04 17:21:54] homedirs(): _make_homedir: entering _make_homedirs()
+[2014-02-04 17:21:54] homedirs(): _make_homedir: homedir  => /wsHomes/phd/tbooth3
+[2014-02-04 17:21:54] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2014-02-04 17:21:54] homedirs(): _make_homedir:      gid => 30
+[2014-02-04 17:21:54] homedirs(): _make_homedir: Attempting to create directory: /wsHomes/phd/tbooth3
+[2014-02-04 17:21:54] homedirs(): _make_homedir: Created home directory: /wsHomes/phd/tbooth3
+[2014-02-04 17:21:54] homedirs(): _make_homedir: Attempting to change ownership on: /wsHomes/phd/tbooth3
+[2014-02-04 17:21:54] homedirs(): _make_homedir: /wsHomes/phd/tbooth3 ownership changed to 20026:30
+[2014-02-04 17:21:54] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/p/.cshrc to /wsHomes/phd/tbooth3
+[2014-02-04 17:21:54] homedirs(): _make_homedir: Set permissions on /wsHomes/phd/tbooth3/.cshrc
+[2014-02-04 17:21:54] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/p/.login to /wsHomes/phd/tbooth3
+[2014-02-04 17:21:54] homedirs(): _make_homedir: Set permissions on /wsHomes/phd/tbooth3/.login
+[2014-02-04 17:21:54] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/p/.profile to /wsHomes/phd/tbooth3
+[2014-02-04 17:21:54] homedirs(): _make_homedir: Set permissions on /wsHomes/phd/tbooth3/.profile
+[2014-02-04 17:21:54] homedirs(): _make_homedir: returning with value: 1
+[2014-02-04 17:21:54] GRIDLIB(): InitAccount: Created homedir for tbooth3
+[2014-02-04 17:44:16] GRIDLIB(): InitAccount: entering InitAccount()
+[2014-02-04 17:44:16] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2014-02-04 17:44:16] GRIDLIB(): InitAccount: uname  => hwiggle
+[2014-02-04 17:44:16] GRIDLIB(): InitAccount: uid    => 20027
+[2014-02-04 17:44:16] GRIDLIB(): InitAccount: actype => ts
+[2014-02-04 17:44:16] GRIDLIB(): InitAccount: calling _make_homedir()
+[2014-02-04 17:44:16] homedirs(): _make_homedir: entering _make_homedirs()
+[2014-02-04 17:44:16] homedirs(): _make_homedir: homedir  => /wsHomes/staff/hwiggle
+[2014-02-04 17:44:16] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2014-02-04 17:44:16] homedirs(): _make_homedir:      gid => 10
+[2014-02-04 17:44:16] homedirs(): _make_homedir: Attempting to create directory: /wsHomes/staff/hwiggle
+[2014-02-04 17:44:16] homedirs(): _make_homedir: Created home directory: /wsHomes/staff/hwiggle
+[2014-02-04 17:44:16] homedirs(): _make_homedir: Attempting to change ownership on: /wsHomes/staff/hwiggle
+[2014-02-04 17:44:16] homedirs(): _make_homedir: /wsHomes/staff/hwiggle ownership changed to 20027:10
+[2014-02-04 17:44:16] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/ts/.cshrc to /wsHomes/staff/hwiggle
+[2014-02-04 17:44:16] homedirs(): _make_homedir: Set permissions on /wsHomes/staff/hwiggle/.cshrc
+[2014-02-04 17:44:16] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/ts/.login to /wsHomes/staff/hwiggle
+[2014-02-04 17:44:16] homedirs(): _make_homedir: Set permissions on /wsHomes/staff/hwiggle/.login
+[2014-02-04 17:44:16] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/ts/.profile to /wsHomes/staff/hwiggle
+[2014-02-04 17:44:16] homedirs(): _make_homedir: Set permissions on /wsHomes/staff/hwiggle/.profile
+[2014-02-04 17:44:16] homedirs(): _make_homedir: returning with value: 1
+[2014-02-04 17:44:16] GRIDLIB(): InitAccount: Created homedir for hwiggle
+[2014-02-05 17:37:11] GRIDLIB(): InitAccount: entering InitAccount()
+[2014-02-05 17:37:11] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2014-02-05 17:37:11] GRIDLIB(): InitAccount: uname  => tbooth4
+[2014-02-05 17:37:11] GRIDLIB(): InitAccount: uid    => 20028
+[2014-02-05 17:37:11] GRIDLIB(): InitAccount: actype => p
+[2014-02-05 17:37:11] GRIDLIB(): InitAccount: calling _make_homedir()
+[2014-02-05 17:37:11] homedirs(): _make_homedir: entering _make_homedirs()
+[2014-02-05 17:37:11] homedirs(): _make_homedir: homedir  => /wsHomes/phd/tbooth4
+[2014-02-05 17:37:11] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2014-02-05 17:37:11] homedirs(): _make_homedir:      gid => 30
+[2014-02-05 17:37:11] homedirs(): _make_homedir: Attempting to create directory: /wsHomes/phd/tbooth4
+[2014-02-05 17:37:11] homedirs(): _make_homedir: Created home directory: /wsHomes/phd/tbooth4
+[2014-02-05 17:37:11] homedirs(): _make_homedir: Attempting to change ownership on: /wsHomes/phd/tbooth4
+[2014-02-05 17:37:11] homedirs(): _make_homedir: /wsHomes/phd/tbooth4 ownership changed to 20028:30
+[2014-02-05 17:37:11] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/p/.cshrc to /wsHomes/phd/tbooth4
+[2014-02-05 17:37:11] homedirs(): _make_homedir: Set permissions on /wsHomes/phd/tbooth4/.cshrc
+[2014-02-05 17:37:11] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/p/.login to /wsHomes/phd/tbooth4
+[2014-02-05 17:37:11] homedirs(): _make_homedir: Set permissions on /wsHomes/phd/tbooth4/.login
+[2014-02-05 17:37:11] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/p/.profile to /wsHomes/phd/tbooth4
+[2014-02-05 17:37:11] homedirs(): _make_homedir: Set permissions on /wsHomes/phd/tbooth4/.profile
+[2014-02-05 17:37:11] homedirs(): _make_homedir: returning with value: 1
+[2014-02-05 17:37:11] GRIDLIB(): InitAccount: Created homedir for tbooth4
+[2014-02-06 09:32:20] GRIDLIB(): InitAccount: entering InitAccount()
+[2014-02-06 09:32:20] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2014-02-06 09:32:20] GRIDLIB(): InitAccount: uname  => vmaddila
+[2014-02-06 09:32:20] GRIDLIB(): InitAccount: uid    => 20029
+[2014-02-06 09:32:20] GRIDLIB(): InitAccount: actype => m
+[2014-02-06 09:32:20] GRIDLIB(): InitAccount: calling _make_homedir()
+[2014-02-06 09:32:20] homedirs(): _make_homedir: entering _make_homedirs()
+[2014-02-06 09:32:20] homedirs(): _make_homedir: homedir  => /wsHomes/mba/vmaddila
+[2014-02-06 09:32:20] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2014-02-06 09:32:20] homedirs(): _make_homedir:      gid => 40
+[2014-02-06 09:32:20] homedirs(): _make_homedir: Attempting to create directory: /wsHomes/mba/vmaddila
+[2014-02-06 09:32:20] homedirs(): _make_homedir: Created home directory: /wsHomes/mba/vmaddila
+[2014-02-06 09:32:20] homedirs(): _make_homedir: Attempting to change ownership on: /wsHomes/mba/vmaddila
+[2014-02-06 09:32:20] homedirs(): _make_homedir: /wsHomes/mba/vmaddila ownership changed to 20029:40
+[2014-02-06 09:32:20] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.cshrc to /wsHomes/mba/vmaddila
+[2014-02-06 09:32:20] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/vmaddila/.cshrc
+[2014-02-06 09:32:20] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.login to /wsHomes/mba/vmaddila
+[2014-02-06 09:32:20] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/vmaddila/.login
+[2014-02-06 09:32:20] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.profile to /wsHomes/mba/vmaddila
+[2014-02-06 09:32:20] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/vmaddila/.profile
+[2014-02-06 09:32:20] homedirs(): _make_homedir: returning with value: 1
+[2014-02-06 09:32:20] GRIDLIB(): InitAccount: Created homedir for vmaddila
+[2014-02-06 09:32:51] GRIDLIB(): InitAccount: entering InitAccount()
+[2014-02-06 09:32:51] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2014-02-06 09:32:51] GRIDLIB(): InitAccount: uname  => dfrey
+[2014-02-06 09:32:51] GRIDLIB(): InitAccount: uid    => 20030
+[2014-02-06 09:32:51] GRIDLIB(): InitAccount: actype => m
+[2014-02-06 09:32:51] GRIDLIB(): InitAccount: calling _make_homedir()
+[2014-02-06 09:32:51] homedirs(): _make_homedir: entering _make_homedirs()
+[2014-02-06 09:32:51] homedirs(): _make_homedir: homedir  => /wsHomes/mba/dfrey
+[2014-02-06 09:32:51] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2014-02-06 09:32:51] homedirs(): _make_homedir:      gid => 40
+[2014-02-06 09:32:51] homedirs(): _make_homedir: Attempting to create directory: /wsHomes/mba/dfrey
+[2014-02-06 09:32:51] homedirs(): _make_homedir: Created home directory: /wsHomes/mba/dfrey
+[2014-02-06 09:32:51] homedirs(): _make_homedir: Attempting to change ownership on: /wsHomes/mba/dfrey
+[2014-02-06 09:32:51] homedirs(): _make_homedir: /wsHomes/mba/dfrey ownership changed to 20030:40
+[2014-02-06 09:32:51] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.cshrc to /wsHomes/mba/dfrey
+[2014-02-06 09:32:51] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/dfrey/.cshrc
+[2014-02-06 09:32:51] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.login to /wsHomes/mba/dfrey
+[2014-02-06 09:32:51] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/dfrey/.login
+[2014-02-06 09:32:51] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.profile to /wsHomes/mba/dfrey
+[2014-02-06 09:32:51] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/dfrey/.profile
+[2014-02-06 09:32:51] homedirs(): _make_homedir: returning with value: 1
+[2014-02-06 09:32:51] GRIDLIB(): InitAccount: Created homedir for dfrey
+[2014-02-06 09:33:22] GRIDLIB(): InitAccount: entering InitAccount()
+[2014-02-06 09:33:22] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2014-02-06 09:33:22] GRIDLIB(): InitAccount: uname  => vgopala0
+[2014-02-06 09:33:22] GRIDLIB(): InitAccount: uid    => 20031
+[2014-02-06 09:33:22] GRIDLIB(): InitAccount: actype => m
+[2014-02-06 09:33:22] GRIDLIB(): InitAccount: calling _make_homedir()
+[2014-02-06 09:33:22] homedirs(): _make_homedir: entering _make_homedirs()
+[2014-02-06 09:33:22] homedirs(): _make_homedir: homedir  => /wsHomes/mba/vgopala0
+[2014-02-06 09:33:22] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2014-02-06 09:33:22] homedirs(): _make_homedir:      gid => 40
+[2014-02-06 09:33:22] homedirs(): _make_homedir: Attempting to create directory: /wsHomes/mba/vgopala0
+[2014-02-06 09:33:22] homedirs(): _make_homedir: FAILED to create directory /wsHomes/mba/vgopala0: /wsHomes/mba/vgopala0 already exists
+[2014-02-06 09:33:53] GRIDLIB(): InitAccount: entering InitAccount()
+[2014-02-06 09:33:53] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2014-02-06 09:33:53] GRIDLIB(): InitAccount: uname  => imescher
+[2014-02-06 09:33:53] GRIDLIB(): InitAccount: uid    => 20032
+[2014-02-06 09:33:53] GRIDLIB(): InitAccount: actype => m
+[2014-02-06 09:33:53] GRIDLIB(): InitAccount: calling _make_homedir()
+[2014-02-06 09:33:53] homedirs(): _make_homedir: entering _make_homedirs()
+[2014-02-06 09:33:53] homedirs(): _make_homedir: homedir  => /wsHomes/mba/imescher
+[2014-02-06 09:33:53] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2014-02-06 09:33:53] homedirs(): _make_homedir:      gid => 40
+[2014-02-06 09:33:53] homedirs(): _make_homedir: Attempting to create directory: /wsHomes/mba/imescher
+[2014-02-06 09:33:53] homedirs(): _make_homedir: Created home directory: /wsHomes/mba/imescher
+[2014-02-06 09:33:53] homedirs(): _make_homedir: Attempting to change ownership on: /wsHomes/mba/imescher
+[2014-02-06 09:33:53] homedirs(): _make_homedir: /wsHomes/mba/imescher ownership changed to 20032:40
+[2014-02-06 09:33:53] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.cshrc to /wsHomes/mba/imescher
+[2014-02-06 09:33:53] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/imescher/.cshrc
+[2014-02-06 09:33:53] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.login to /wsHomes/mba/imescher
+[2014-02-06 09:33:53] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/imescher/.login
+[2014-02-06 09:33:53] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.profile to /wsHomes/mba/imescher
+[2014-02-06 09:33:53] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/imescher/.profile
+[2014-02-06 09:33:53] homedirs(): _make_homedir: returning with value: 1
+[2014-02-06 09:33:53] GRIDLIB(): InitAccount: Created homedir for imescher
+[2014-02-06 09:34:24] GRIDLIB(): InitAccount: entering InitAccount()
+[2014-02-06 09:34:24] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2014-02-06 09:34:24] GRIDLIB(): InitAccount: uname  => pshah6
+[2014-02-06 09:34:24] GRIDLIB(): InitAccount: uid    => 20033
+[2014-02-06 09:34:24] GRIDLIB(): InitAccount: actype => m
+[2014-02-06 09:34:24] GRIDLIB(): InitAccount: calling _make_homedir()
+[2014-02-06 09:34:24] homedirs(): _make_homedir: entering _make_homedirs()
+[2014-02-06 09:34:24] homedirs(): _make_homedir: homedir  => /wsHomes/mba/pshah6
+[2014-02-06 09:34:24] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2014-02-06 09:34:24] homedirs(): _make_homedir:      gid => 40
+[2014-02-06 09:34:24] homedirs(): _make_homedir: Attempting to create directory: /wsHomes/mba/pshah6
+[2014-02-06 09:34:24] homedirs(): _make_homedir: Created home directory: /wsHomes/mba/pshah6
+[2014-02-06 09:34:24] homedirs(): _make_homedir: Attempting to change ownership on: /wsHomes/mba/pshah6
+[2014-02-06 09:34:24] homedirs(): _make_homedir: /wsHomes/mba/pshah6 ownership changed to 20033:40
+[2014-02-06 09:34:24] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.cshrc to /wsHomes/mba/pshah6
+[2014-02-06 09:34:24] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/pshah6/.cshrc
+[2014-02-06 09:34:24] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.login to /wsHomes/mba/pshah6
+[2014-02-06 09:34:24] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/pshah6/.login
+[2014-02-06 09:34:24] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.profile to /wsHomes/mba/pshah6
+[2014-02-06 09:34:24] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/pshah6/.profile
+[2014-02-06 09:34:24] homedirs(): _make_homedir: returning with value: 1
+[2014-02-06 09:34:24] GRIDLIB(): InitAccount: Created homedir for pshah6
+[2014-02-06 09:34:55] GRIDLIB(): InitAccount: entering InitAccount()
+[2014-02-06 09:34:55] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2014-02-06 09:34:55] GRIDLIB(): InitAccount: uname  => wsoukup
+[2014-02-06 09:34:55] GRIDLIB(): InitAccount: uid    => 20034
+[2014-02-06 09:34:55] GRIDLIB(): InitAccount: actype => m
+[2014-02-06 09:34:55] GRIDLIB(): InitAccount: calling _make_homedir()
+[2014-02-06 09:34:55] homedirs(): _make_homedir: entering _make_homedirs()
+[2014-02-06 09:34:55] homedirs(): _make_homedir: homedir  => /wsHomes/mba/wsoukup
+[2014-02-06 09:34:55] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2014-02-06 09:34:55] homedirs(): _make_homedir:      gid => 40
+[2014-02-06 09:34:55] homedirs(): _make_homedir: Attempting to create directory: /wsHomes/mba/wsoukup
+[2014-02-06 09:34:55] homedirs(): _make_homedir: Created home directory: /wsHomes/mba/wsoukup
+[2014-02-06 09:34:55] homedirs(): _make_homedir: Attempting to change ownership on: /wsHomes/mba/wsoukup
+[2014-02-06 09:34:55] homedirs(): _make_homedir: /wsHomes/mba/wsoukup ownership changed to 20034:40
+[2014-02-06 09:34:55] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.cshrc to /wsHomes/mba/wsoukup
+[2014-02-06 09:34:55] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/wsoukup/.cshrc
+[2014-02-06 09:34:55] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.login to /wsHomes/mba/wsoukup
+[2014-02-06 09:34:55] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/wsoukup/.login
+[2014-02-06 09:34:55] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.profile to /wsHomes/mba/wsoukup
+[2014-02-06 09:34:55] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/wsoukup/.profile
+[2014-02-06 09:34:55] homedirs(): _make_homedir: returning with value: 1
+[2014-02-06 09:34:55] GRIDLIB(): InitAccount: Created homedir for wsoukup
+[2014-02-06 09:35:26] GRIDLIB(): InitAccount: entering InitAccount()
+[2014-02-06 09:35:26] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2014-02-06 09:35:26] GRIDLIB(): InitAccount: uname  => evaleria
+[2014-02-06 09:35:26] GRIDLIB(): InitAccount: uid    => 20035
+[2014-02-06 09:35:26] GRIDLIB(): InitAccount: actype => m
+[2014-02-06 09:35:26] GRIDLIB(): InitAccount: calling _make_homedir()
+[2014-02-06 09:35:26] homedirs(): _make_homedir: entering _make_homedirs()
+[2014-02-06 09:35:26] homedirs(): _make_homedir: homedir  => /wsHomes/mba/evaleria
+[2014-02-06 09:35:26] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2014-02-06 09:35:26] homedirs(): _make_homedir:      gid => 40
+[2014-02-06 09:35:26] homedirs(): _make_homedir: Attempting to create directory: /wsHomes/mba/evaleria
+[2014-02-06 09:35:26] homedirs(): _make_homedir: Created home directory: /wsHomes/mba/evaleria
+[2014-02-06 09:35:26] homedirs(): _make_homedir: Attempting to change ownership on: /wsHomes/mba/evaleria
+[2014-02-06 09:35:26] homedirs(): _make_homedir: /wsHomes/mba/evaleria ownership changed to 20035:40
+[2014-02-06 09:35:26] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.cshrc to /wsHomes/mba/evaleria
+[2014-02-06 09:35:26] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/evaleria/.cshrc
+[2014-02-06 09:35:26] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.login to /wsHomes/mba/evaleria
+[2014-02-06 09:35:26] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/evaleria/.login
+[2014-02-06 09:35:26] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.profile to /wsHomes/mba/evaleria
+[2014-02-06 09:35:26] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/evaleria/.profile
+[2014-02-06 09:35:26] homedirs(): _make_homedir: returning with value: 1
+[2014-02-06 09:35:26] GRIDLIB(): InitAccount: Created homedir for evaleria
+[2014-02-06 09:35:57] GRIDLIB(): InitAccount: entering InitAccount()
+[2014-02-06 09:35:57] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2014-02-06 09:35:57] GRIDLIB(): InitAccount: uname  => rcarlton
+[2014-02-06 09:35:57] GRIDLIB(): InitAccount: uid    => 20036
+[2014-02-06 09:35:57] GRIDLIB(): InitAccount: actype => m
+[2014-02-06 09:35:57] GRIDLIB(): InitAccount: calling _make_homedir()
+[2014-02-06 09:35:57] homedirs(): _make_homedir: entering _make_homedirs()
+[2014-02-06 09:35:57] homedirs(): _make_homedir: homedir  => /wsHomes/mba/rcarlton
+[2014-02-06 09:35:57] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2014-02-06 09:35:57] homedirs(): _make_homedir:      gid => 40
+[2014-02-06 09:35:57] homedirs(): _make_homedir: Attempting to create directory: /wsHomes/mba/rcarlton
+[2014-02-06 09:35:57] homedirs(): _make_homedir: Created home directory: /wsHomes/mba/rcarlton
+[2014-02-06 09:35:57] homedirs(): _make_homedir: Attempting to change ownership on: /wsHomes/mba/rcarlton
+[2014-02-06 09:35:57] homedirs(): _make_homedir: /wsHomes/mba/rcarlton ownership changed to 20036:40
+[2014-02-06 09:35:57] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.cshrc to /wsHomes/mba/rcarlton
+[2014-02-06 09:35:57] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/rcarlton/.cshrc
+[2014-02-06 09:35:57] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.login to /wsHomes/mba/rcarlton
+[2014-02-06 09:35:57] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/rcarlton/.login
+[2014-02-06 09:35:57] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.profile to /wsHomes/mba/rcarlton
+[2014-02-06 09:35:57] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/rcarlton/.profile
+[2014-02-06 09:35:57] homedirs(): _make_homedir: returning with value: 1
+[2014-02-06 09:35:57] GRIDLIB(): InitAccount: Created homedir for rcarlton
+[2014-02-06 09:36:28] GRIDLIB(): InitAccount: entering InitAccount()
+[2014-02-06 09:36:28] GRIDLIB(): InitAccount: self   => GRIDLIB
+[2014-02-06 09:36:28] GRIDLIB(): InitAccount: uname  => mmurray2
+[2014-02-06 09:36:28] GRIDLIB(): InitAccount: uid    => 20037
+[2014-02-06 09:36:28] GRIDLIB(): InitAccount: actype => m
+[2014-02-06 09:36:28] GRIDLIB(): InitAccount: calling _make_homedir()
+[2014-02-06 09:36:28] homedirs(): _make_homedir: entering _make_homedirs()
+[2014-02-06 09:36:28] homedirs(): _make_homedir: homedir  => /wsHomes/mba/mmurray2
+[2014-02-06 09:36:28] homedirs(): _make_homedir: skelbase => /opt/gsb/grid/webservice/skel
+[2014-02-06 09:36:28] homedirs(): _make_homedir:      gid => 40
+[2014-02-06 09:36:28] homedirs(): _make_homedir: Attempting to create directory: /wsHomes/mba/mmurray2
+[2014-02-06 09:36:28] homedirs(): _make_homedir: Created home directory: /wsHomes/mba/mmurray2
+[2014-02-06 09:36:28] homedirs(): _make_homedir: Attempting to change ownership on: /wsHomes/mba/mmurray2
+[2014-02-06 09:36:28] homedirs(): _make_homedir: /wsHomes/mba/mmurray2 ownership changed to 20037:40
+[2014-02-06 09:36:28] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.cshrc to /wsHomes/mba/mmurray2
+[2014-02-06 09:36:28] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/mmurray2/.cshrc
+[2014-02-06 09:36:28] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.login to /wsHomes/mba/mmurray2
+[2014-02-06 09:36:28] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/mmurray2/.login
+[2014-02-06 09:36:28] homedirs(): _make_homedir: Copied /opt/gsb/grid/webservice/skel/m/.profile to /wsHomes/mba/mmurray2
+[2014-02-06 09:36:28] homedirs(): _make_homedir: Set permissions on /wsHomes/mba/mmurray2/.profile
+[2014-02-06 09:36:28] homedirs(): _make_homedir: returning with value: 1
+[2014-02-06 09:36:28] GRIDLIB(): InitAccount: Created homedir for mmurray2

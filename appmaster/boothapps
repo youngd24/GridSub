@@ -1,0 +1,37 @@
+#!/bin/bash
+
+clear
+
+cat << EOF 
+================================================================================
+GSB UNIX RESEARCH APPLICATIONS
+
+UPDATED JANUARY 2008
+================================================================================
+
+Notes:
+
+   - For assistance running applications in batch mode, type 'boothhelp batch'
+     and press return.
+
+   - NOTE NOTE NOTE
+     The grid interfaces to the applications are still experimental and are
+     subject to change.
+
+--------------------------------------------------------------------------------
+APPLICATION   VERSION     COMMAND     DESCRIPTION
+--------------------------------------------------------------------------------
+MATHEMATICA   8       	  math        Mathematica
+X-MATHEMATICA 8		  xmath       X Windows (interactive graphical) Mathamatica
+MATLAB        2011a       xmatlab     X Windows (interactive graphical) Matlab
+R             2.12.2      R           R is a free software environment for statistical computing
+SAS           9.2 MR2     sas         X Windows (interactive graphical) SAS
+S-PLUS        8.1.1       splus       Splus
+X-SPLUS       8.1.1       xsplus      X Windows (interactive graphical) S-Plus
+STATA         11.2        stata       Stata (command line)
+STATA-SE      11.2        stata-se    Stata SE (command line)
+STATA-MP      11.2        stata-mp    Stata MP (command line)
+XSTATA        11.2        xstata      X Windows (interactive graphical) Stata
+XSTATA-SE     11.2        xstata-se   X Windows (interactive graphical) Stata SE
+XSTATA-MP     11.2        xstata-mp   X Windows (interactive graphical) Stata MP
+EOF

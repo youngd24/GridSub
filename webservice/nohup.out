@@ -1,0 +1,3 @@
+syntax error at /opt/gsb/grid/webservice/lib/config.pm line 72, near "$GCH_GID"
+Compilation failed in require at ./GridWSd line 41.
+BEGIN failed--compilation aborted at ./GridWSd line 41.

@@ -1,0 +1,61 @@
+#!/bin/bash
+###############################################################################
+#
+# job_submit.sample
+#
+# Sample GSB Job Submission Script
+#
+# Darren Young [darren.young@gsb.uchicago.edu]
+#
+# $Id$
+#
+###############################################################################
+#
+# Rename this file, uncomment and change the variables you need then remove the
+# ones you don't need. Submit the job to the grid using the qsub command. 
+#
+# Example: qsub runme.sh
+#
+# Note that ANY lines in this script with a #$ in front of it will be parsed
+# and used by the grid engine upon submission
+#
+###############################################################################
+#
+#
+# The shell used to execute this script on a compute node
+# Current valid shells are /bin/sh, /bin/bash and /bin/csh
+#$ -S /bin/bash
+#
+#
+# Where to place STDOUT and STDERR
+#$ -o job_submit.stderr
+#$ -e job_submit.stderr
+#
+# Set this if you want STDERR merged into STDOUT
+# If you set this *and* the -e option above, the -e value is ignored.
+#$ -j yes
+#
+#
+# If we should place the results of the job in the current working directory.
+# If this isn't specified, the above mentioned STDERR and STDOUT files are
+# placed at the top of your home directory (the value of $HOME)
+#$ -cwd
+#
+#
+# This option controls email status updates on job progress.
+#   b = Mail is sent at the beginning of the job
+#   e = Mail is sent at the end of the job
+#   a = Mail is sent when the job is aborted or rescheduled
+#   n = No mail is sent (the default)
+#
+#$ -m b|e|a|n
+#
+# Where to send the emails for the above status updates
+#$ -M user@domain.com
+#
+# The name of the job. If this isn't set, the grid engine assigns the job
+# name based on the name of the script.
+#$ -N JOB_NAME
+#
+
+/some/path/to/some/command <arguments to the command>
